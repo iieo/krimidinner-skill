@@ -88,7 +88,7 @@
       v(1.5cm)
       caps("Krimidinner")
       v(0.6cm)
-      text(font: serif, size: 34pt, fill: ink, case.title)
+      text(font: serif, size: 34pt, fill: ink, hyphenate: false, case.title)
       v(0.2cm)
       text(font: serif, size: 13pt, style: "italic", fill: muted, case.subtitle)
       v(0.8cm)

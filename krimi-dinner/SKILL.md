@@ -101,7 +101,10 @@ Das ist der wichtigste Moment für die Qualität: Eine schwache Struktur rettet 
 Pfade zu `craft.md` und `creativity.md`, und schreibt `source/roles/<id>.json` mit `profile,
 costume, how_to_play, dossiers, booklet_intro, rounds`. Die Rundentexte setzen genau die
 Hinweise um, deren `source` diese Rolle ist, plus Erinnerungen und Spielanweisungen für die Figur.
-Beim Täter zusätzlich vorbereitete Ausreden pro Runde.
+Beim Täter zusätzlich vorbereitete Ausreden pro Runde und eine öffentliche Fassung
+(`public_profile`, `public_dossiers`, `public_rounds`), also das, was er am Tisch erzählt. Sie
+erscheint in keinem PDF, sorgt aber dafür, dass die Spielersicht für die Blindprüfung den Täter
+nicht schon durch ihren Aufbau verrät.
 
 **Rahmen selbst schreiben** in `source/frame.json`: `intro`, `investigator_rounds` (mit
 Beweisen im Wortlaut in `evidence`, z. B. Briefe, Notizen, Laborbefunde), `solution`, `props`.

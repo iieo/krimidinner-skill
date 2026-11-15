@@ -276,10 +276,15 @@ export function check(c, { structure = false } = {}) {
   for (const n of [c.victim?.name, c.investigator?.name, ...roles.map((r) => r?.name)])
     if (typeof n === "string") for (const t of n.split(/\s+/)) nameParts.add(t.replace(/[.,]/g, ""));
   const long = [...nameParts].filter((t) => t.length >= 5);
+  // Real typos are rare; a word that shows up three or more times is an ordinary word (Essen, Leiter).
+  const wordCount = new Map();
+  for (const [, text] of allTexts)
+    for (const word of text.match(/\p{Lu}[\p{L}]+/gu) ?? []) wordCount.set(word, (wordCount.get(word) ?? 0) + 1);
+  const commonWords = new Set(["Essen", "Leiter", "Kerze", "Kerzen", "Garten", "Wagen", "Meister", "Weber", "Becker", "Bauer"]);
   const suspicious = new Map();
   for (const [path, text] of allTexts) {
     for (const word of text.match(/\p{Lu}[\p{L}]+/gu) ?? []) {
-      if (nameParts.has(word)) continue;
+      if (nameParts.has(word) || commonWords.has(word) || (wordCount.get(word) ?? 0) >= 3) continue;
       for (const t of long) {
         if (word === `${t}s` || word === `${t}'s` || Math.abs(word.length - t.length) > 1) continue;
         if (levenshtein(word, t) === 1 && !(word.endsWith("s") && levenshtein(word.slice(0, -1), t) === 0)) {

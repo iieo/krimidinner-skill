@@ -175,6 +175,9 @@ Die Wahrsagerin, die alles ahnt. Erpressung als Motiv für fast jeden.
 
 ### Sprache
 
+- [ ] Antithesen wie „X ist kein Y“ kommen im ganzen Spiel höchstens zweimal vor.
+- [ ] In keiner Runde zielen mehr als zwei Rundenaufgaben auf dieselbe Person.
+
 - [ ] (P) Keine Gedankenstriche als Satzzeichen (—, –, „ - “ zwischen Satzteilen). Suche danach.
 - [ ] (P) Rollentexte sprechen die Spielerin oder den Spieler durchgehend mit „du“ an.
 - [ ] Keine Floskeln: „Schauer über den Rücken“, „die Luft war zum Schneiden dick“, „nichts ist, wie

@@ -51,6 +51,20 @@ Subagents delegieren nicht weiter und schreiben nur die Datei, die ihr Brief nen
 > plötzlich, begreift die Bedeutung oder entschließt sich, es jetzt zu sagen. Im Profil darf sie
 > höchstens spüren, dass sie etwas zu verbergen hat. Sonst kennt der Tisch den Hinweis zu früh.
 >
+> **Lügenregel genau nehmen:** Unschuldige dürfen schweigen und ausweichen, aber das Heft gibt ihnen
+> nie eine irreführende Antwort vor. Steht da „Fragt jemand, sag: …“, muss der Satz wahr und
+> vollständig genug sein, dass er niemanden auf eine falsche Spur schickt.
+>
+> **Was Hinweise voraussetzen, steht im Heft:** Setzt ein Hinweis eine Eigenschaft deiner Figur voraus
+> (Schuhwerk, Handschrift, wo sie zu einer Uhrzeit war, was sie gesehen hat), dann steht das in
+> `costume`, `profile` oder der passenden Runde, damit die Spielerin es am Tisch bestätigen kann.
+>
+> **Nur für die Täterrolle** zusätzlich drei Felder für die Blindprüfung, gleich aufgebaut wie die
+> der anderen Rollen: `public_profile` (das Profil so, wie die Figur es am Tisch erzählen würde, gleich
+> lang, wahr wo es ungefährlich ist, gelogen wo nötig, passend zu `truth.cover_story`),
+> `public_dossiers` (was sie über andere sagen würde) und `public_rounds` (pro Runde, was sie am Tisch
+> preisgibt und behauptet, ohne Spielanweisungen). Diese Felder erscheinen in keinem PDF.
+>
 > Halte dich an Uhrzeiten, Orte und Namen aus `structure.json`, erfinde keine neuen Personen mit
 > Gewicht. Jeder Rundentext endet mit einer konkreten Aufgabe für den Tisch („Frag Rudolf, …“). Keine Gedankenstriche als Satzzeichen. Antworte am Ende nur mit „fertig“ und offenen Fragen,
 > falls die Struktur an einer Stelle widersprüchlich war.

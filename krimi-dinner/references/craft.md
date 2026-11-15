@@ -244,6 +244,13 @@ Jede falsche Fährte wird aufgelöst, jedes aufgeflogene Geheimnis bekommt seine
   dick“, „nichts ist, wie es scheint“, „ein Geheimnis, das alles verändern könnte“. Keine
   Dreierreihen von Adjektiven. Sätze unterschiedlich lang.
 - Namen, Orte, Uhrzeiten und Gegenstände sind in allen Texten exakt gleich geschrieben.
+- **Keine Antithesen als Tick.** „Scham ist kein Mord.“, „ein Betrüger, aber kein Mörder“, „Wut,
+  keine Tat“: Einmal im Spiel wirkt das, in jedem Heft klingt es nach Maschine. Sag stattdessen,
+  was die Figur tut oder was daraus folgt.
+- **Aufgaben am Rundenende verteilen.** Zielen in einer Runde mehr als zwei Hefte mit ihrer Frage
+  auf dieselbe Person, spricht der Tisch im Chor. Lenke die übrigen auf Nebenkonflikte.
+- **Fakten, die nur ein Heft kennt,** darf die Auflösung nicht als „erinnert ihr euch“ verwenden.
+  Was der Tisch wissen soll, muss in einem Hinweis stehen.
 
 ## Quellen
 

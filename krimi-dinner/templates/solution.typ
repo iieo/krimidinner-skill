@@ -43,8 +43,9 @@
 
 == Zeitleiste
 
+#set par(justify: false)
 #table(
-  columns: (auto, auto, 1fr, auto),
+  columns: (1.2cm, 2.6cm, 1fr, 3.2cm),
   stroke: (x, y) => (bottom: if y == 0 { 0.8pt + accent } else { 0.4pt + muted.lighten(50%) }),
   inset: (x: 5pt, y: 6pt),
   table.header(..("Zeit", "Ort", "Was geschah", "Bezeugt von").map(h => caps(h, size: 7pt))),
@@ -52,7 +53,7 @@
     text(font: serif, size: 11pt, z.time),
     text(size: 9.5pt, z.place),
     text(size: 9.5pt, z.what),
-    text(size: 9.5pt, if z.seen_by.len() > 0 { z.seen_by.map(person).join(", ") } else { "niemand" }),
+    text(size: 8.5pt, fill: muted, if z.seen_by.len() == 0 { "niemand" } else if z.seen_by.len() >= case.roles.len() { "alle" } else { z.seen_by.map(person).join(", ") }),
   )).flatten(),
 )
 
@@ -62,7 +63,7 @@
 #for k in range(1, case.round_count + 1) [
   === Runde #k
   #table(
-    columns: (auto, 1fr, auto),
+    columns: (3cm, 1fr, 2.2cm),
     stroke: (x, y) => (bottom: 0.4pt + muted.lighten(50%)),
     inset: (x: 5pt, y: 5pt),
     ..case.clues.filter(h => h.round == k).map(h => (

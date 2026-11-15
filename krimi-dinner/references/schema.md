@@ -40,6 +40,8 @@ laufen darauf. Die Schlüssel sind englisch, die Texte deutscher Fließtext, Abs
       "costume": "Kostümtipps.",
       "how_to_play": "Wie man die Figur spielt, Lügenregel für diese Figur.",
       "is_culprit": false,
+      // only for the culprit, used for the blind test, never printed:
+      // "public_profile": "...", "public_dossiers": [ ... ], "public_rounds": [ { "n": 1, "text": "..." } ],
       "may_lie": false,
       "dossiers": [ { "about": "r2", "text": "Was r1 über r2 weiß." } ],
       "booklet_intro": "Einleitung des Hinweishefts für diese Rolle.",

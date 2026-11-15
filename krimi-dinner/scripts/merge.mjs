@@ -5,7 +5,7 @@
 //     reads structure.json, frame.json and roles/<id>.json, writes case.json
 //   node merge.mjs <game>/source --player-view
 //     also writes player-view.md: what the table can learn during the game,
-//     without truth, clue graph and solution. The culprit appears only with the cover story.
+//     without truth, clue graph and solution. The culprit appears with their public_* version.
 
 import { readFileSync, writeFileSync, existsSync, readdirSync } from "node:fs";
 import { join } from "node:path";
@@ -66,7 +66,7 @@ function playerView(c) {
   p(
     "## Regeln",
     "Alle sagen die Wahrheit und teilen am Tisch, was sie wissen, sobald es nicht ihr eigenes Geheimnis belastet.",
-    "Nur eine Person, der Täter oder die Täterin, darf lügen. Von dieser Person siehst du unten nur, was sie am Tisch erzählt.",
+    "Nur eine Person, der Täter oder die Täterin, darf lügen. Von dieser Person siehst du unten ihre öffentliche Fassung, also das, was sie am Tisch erzählt.",
   );
 
   // Shuffle the order so the position in the list gives nothing away.
@@ -78,16 +78,21 @@ function playerView(c) {
   p("# Was die Personen wissen und erzählen");
   for (const r of roles) {
     p(`## ${r.name}`);
-    if (r.id === culpritId) {
-      p("Erzählt am Tisch:", c.truth.cover_story ?? "(keine Deckgeschichte hinterlegt)");
-      continue;
+    // The culprit is shown through a public version written for this purpose, so that the
+    // shape of the file does not give them away.
+    const isCulprit = r.id === culpritId;
+    if (isCulprit && !r.public_profile) {
+      console.warn(`Warning: culprit ${r.name} has no public_profile; the player view gives them away.`);
     }
-    p("### Profil", r.profile ?? "");
-    if (r.dossiers?.length) {
+    const profile = isCulprit ? r.public_profile ?? c.truth.cover_story ?? "" : r.profile ?? "";
+    const dossiers = isCulprit ? r.public_dossiers ?? [] : r.dossiers ?? [];
+    const rounds = isCulprit ? r.public_rounds ?? [] : r.rounds ?? [];
+    p("### Profil", profile);
+    if (dossiers.length) {
       p("### Weiß über andere");
-      for (const d of r.dossiers) p(`- ${name(d.about)}: ${d.text}`);
+      for (const d of dossiers) p(`- ${name(d.about)}: ${d.text}`);
     }
-    for (const round of r.rounds ?? []) p(`### Runde ${round.n}`, round.text);
+    for (const round of rounds) p(`### Runde ${round.n}`, round.text);
   }
 
   p(`# Ermittlungen: ${c.investigator.title} ${c.investigator.name}`);
