@@ -63,7 +63,10 @@ Subagents delegieren nicht weiter und schreiben nur die Datei, die ihr Brief nen
 > der anderen Rollen: `public_profile` (das Profil so, wie die Figur es am Tisch erzählen würde, gleich
 > lang, wahr wo es ungefährlich ist, gelogen wo nötig, passend zu `truth.cover_story`),
 > `public_dossiers` (was sie über andere sagen würde) und `public_rounds` (pro Runde, was sie am Tisch
-> preisgibt und behauptet, ohne Spielanweisungen). Diese Felder erscheinen in keinem PDF.
+> preisgibt und behauptet). Sie muss äußerlich genauso aussehen wie die Texte der Unschuldigen: mit
+> einem eigenen, harmlosen Geheimnis und einem Ziel für den Abend im Profil und mit einer Aufgabe
+> („Frag …“) am Ende jeder Runde. Sonst erkennt der Blindprüfer den Täter am Aufbau statt am Inhalt.
+> Diese Felder erscheinen in keinem PDF.
 >
 > Halte dich an Uhrzeiten, Orte und Namen aus `structure.json`, erfinde keine neuen Personen mit
 > Gewicht. Jeder Rundentext endet mit einer konkreten Aufgabe für den Tisch („Frag Rudolf, …“). Keine Gedankenstriche als Satzzeichen. Antworte am Ende nur mit „fertig“ und offenen Fragen,
