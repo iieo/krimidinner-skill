@@ -1,0 +1,84 @@
+[
+  {
+    "name": "schwarzhumorig",
+    "description": "Der Tod ist ernst, die Lebenden sind es nicht. Trockene Pointen, Figuren mit kleinen Lastern."
+  },
+  {
+    "name": "gediegen-klassisch",
+    "description": "Höflichkeit als Waffe, lange Blicke, Andeutungen statt Ausbrüche. Agatha-Christie-Takt."
+  },
+  {
+    "name": "absurd-komisch",
+    "description": "Überdrehte Figuren, groteske Zufälle, aber der Fall bleibt fair lösbar."
+  },
+  {
+    "name": "noir",
+    "description": "Regen, Zigarettenrauch, verbrauchte Figuren, die alle etwas verloren haben. Wenig Lachen.",
+    "from": 1900
+  },
+  {
+    "name": "Gruselkrimi light",
+    "description": "Ein Hauch Übernatürliches, Kerzenlicht und Sagen, aber am Ende hat alles eine irdische Erklärung."
+  },
+  {
+    "name": "Satire",
+    "description": "Das Milieu wird aufs Korn genommen, die Figuren sind Typen, die man aus dem echten Leben kennt."
+  },
+  {
+    "name": "warmherzige Dorfkomödie",
+    "description": "Jeder kennt jeden, Kuchen hilft bei allem, und der Mord stört die Ordnung wie ein Hagelschauer."
+  },
+  {
+    "name": "melodramatisch",
+    "description": "Große Gefühle, Ohnmachten, Liebesbriefe und Enthüllungen mit Paukenschlag."
+  },
+  {
+    "name": "Hochstapler-Komödie",
+    "description": "Fast alle geben vor, jemand anderes zu sein, und keiner merkt es bei den anderen."
+  },
+  {
+    "name": "kühl-psychologisch",
+    "description": "Wenig Klamauk, viel Motivforschung. Wer warum lügt, ist spannender als wie getötet wurde."
+  },
+  {
+    "name": "nostalgisch",
+    "description": "Liebevolle Zeitkulisse, Musik und Dinge der Epoche stehen im Vordergrund, der Mord ist ein Riss im Idyll."
+  },
+  {
+    "name": "Groschenroman",
+    "description": "Bewusst überzeichnet: schurkische Schnurrbärte, unschuldige Heldinnen, dramatische Kapitelenden."
+  },
+  {
+    "name": "Gesellschaftskomödie",
+    "description": "Etikette, Sitzordnung und wer mit wem nicht redet sind wichtiger als das Tatmittel."
+  },
+  {
+    "name": "Science-Fiction-Kammerspiel",
+    "description": "Technik als Kulisse, aber der Konflikt ist zutiefst menschlich und eng begrenzt.",
+    "from": 1950
+  },
+  {
+    "name": "Heimatkrimi",
+    "description": "Dialekt in Maßen, lokale Eigenheiten, ein Kommissar mit Hang zum Mittagessen."
+  },
+  {
+    "name": "Thriller",
+    "description": "Zeitdruck: Bis Mitternacht muss der Täter gefunden sein, sonst passiert etwas Schlimmeres."
+  },
+  {
+    "name": "Märchenhaft-schaurig",
+    "description": "Wie ein Grimm-Märchen erzählt, mit klaren Figurentypen und einer Moral am Ende."
+  },
+  {
+    "name": "Seifenoper",
+    "description": "Affären, verschollene Geschwister und Intrigen, jede Figur ist mit mindestens zwei anderen verbandelt."
+  },
+  {
+    "name": "trocken-bürokratisch",
+    "description": "Formulare, Zuständigkeiten und Aktennotizen, die Komik entsteht aus Ordnung, die nicht hilft."
+  },
+  {
+    "name": "Abenteuerlich",
+    "description": "Fernweh, Expeditionen, Karten und Schätze, der Mord passiert auf dem Weg dorthin."
+  }
+]

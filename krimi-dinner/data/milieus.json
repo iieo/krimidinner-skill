@@ -1,0 +1,298 @@
+[
+  {
+    "name": "Imker",
+    "description": "Honigprämierungen, Varroa-Sorgen und Neid auf die besten Standorte."
+  },
+  {
+    "name": "Schlagerbranche",
+    "from": 1950,
+    "description": "Playback, Hitparade und Texter, die nie genannt werden."
+  },
+  {
+    "name": "Orgelbauer",
+    "from": 900,
+    "description": "Intonation, Gutachten der Kirchenmusiker und Aufträge, die über Generationen laufen."
+  },
+  {
+    "name": "Kleingartenverein",
+    "from": 1870,
+    "description": "Satzung, Heckenschnitt und Parzellen, die nur auf Empfehlung vergeben werden."
+  },
+  {
+    "name": "Esport",
+    "from": 2005,
+    "description": "Teams, Sponsoren, Streams und ein Reaktionstest, der über Karrieren entscheidet."
+  },
+  {
+    "name": "Klosterbrauerei",
+    "from": 800,
+    "description": "Ordensregeln, Brauprivilegien und ein Geschäft, das größer ist, als der Abt zugibt."
+  },
+  {
+    "name": "Glockengießer",
+    "from": 800,
+    "description": "Lehmformen, Bronze und die Angst, dass der Guss reißt."
+  },
+  {
+    "name": "Pferdezucht",
+    "description": "Abstammungsnachweise, Deckhengste und Wetten, die nicht offiziell sind."
+  },
+  {
+    "name": "Kunstfälscher und Galeristen",
+    "from": 1800,
+    "description": "Expertisen, Provenienzen und Leinwand aus dem richtigen Jahrhundert."
+  },
+  {
+    "name": "Briefmarkensammler",
+    "from": 1860,
+    "description": "Fehldrucke, Zähnungen und eine Auktion, bei der eine Marke so viel kostet wie ein Haus."
+  },
+  {
+    "name": "Kochkunst und Sterneküche",
+    "from": 1900,
+    "description": "Brigaden, Tester inkognito und Rezepte, die man nicht klaut, sondern weiterentwickelt."
+  },
+  {
+    "name": "Bergsteiger und Bergführer",
+    "from": 1850,
+    "description": "Seilschaften, Erstbegehungen und die Frage, wer am Gipfel wirklich zuerst war."
+  },
+  {
+    "name": "Zauberkünstler",
+    "from": 1750,
+    "description": "Geheimnisse, die man nur unter Kollegen teilt, und Tricks, die patentiert sind."
+  },
+  {
+    "name": "Puppentheater",
+    "description": "Marionetten, Familienbühnen und Stücke, die seit hundert Jahren gleich gespielt werden."
+  },
+  {
+    "name": "Fischerei und Räucherei",
+    "description": "Fangquoten, Räucherkammern und Boote, die nachts ausfahren."
+  },
+  {
+    "name": "Forstwirtschaft und Jägerschaft",
+    "description": "Reviergrenzen, Abschusspläne und Hochsitze mit Blick auf alles."
+  },
+  {
+    "name": "Bestatter",
+    "description": "Diskretion, Trauerredner und ein Geschäft, in dem man alle Familiengeheimnisse erfährt."
+  },
+  {
+    "name": "Hebammen und Geburtshilfe",
+    "description": "Nächte am Bett, Geburtenbücher und Wissen darüber, wer wessen Kind ist."
+  },
+  {
+    "name": "Uhrmacher",
+    "from": 1500,
+    "description": "Feinmechanik, Komplikationen und Kunden, die nur ihre Uhr vertrauen."
+  },
+  {
+    "name": "Parfümeure",
+    "from": 1700,
+    "description": "Duftorgel, Formeln und Nasen, die eine Million wert sind."
+  },
+  {
+    "name": "Modehaus und Schneiderei",
+    "description": "Anproben, Schnittmuster und eine Kollektion, die kopiert wurde."
+  },
+  {
+    "name": "Chorwesen",
+    "description": "Stimmgruppen, Chorleiter mit Lieblingen und eine Konzertreise ins Ausland."
+  },
+  {
+    "name": "Freiwillige Feuerwehr",
+    "from": 1840,
+    "description": "Übungsabende, Kameradschaftskasse und ein Löschzug, der stolz auf seine Zeiten ist."
+  },
+  {
+    "name": "Rettungsschwimmer",
+    "from": 1910,
+    "description": "Wachtürme, Dienstpläne und die Frage, wer an dem Tag aufs Wasser geschaut hat."
+  },
+  {
+    "name": "Kaffeehandel",
+    "from": 1680,
+    "description": "Röster, Importeure und Bohnen, deren Herkunft nicht immer stimmt."
+  },
+  {
+    "name": "Seifensieder und Kosmetik",
+    "description": "Laugen, Duftöle und ein Produkt, das Hautausschlag macht."
+  },
+  {
+    "name": "Hochseilartistik und Zirkus",
+    "from": 1770,
+    "description": "Familiennummern, Wanderleben und Rivalität zwischen den Truppen."
+  },
+  {
+    "name": "Weinbau",
+    "description": "Lagen, Reblaus und Prämierungen, die über ein Jahr Arbeit entscheiden."
+  },
+  {
+    "name": "Antiquariat",
+    "from": 1500,
+    "description": "Erstausgaben, Marginalien und ein Buch, dessen Widmung viel verrät."
+  },
+  {
+    "name": "Lokalpolitik",
+    "description": "Bebauungspläne, Vetternwirtschaft und Stimmen, die man sich verdient oder kauft."
+  },
+  {
+    "name": "Schachverein",
+    "from": 1820,
+    "description": "Elozahlen, Vereinsmeisterschaft und eine Partie, die vor Jahren abgebrochen wurde."
+  },
+  {
+    "name": "Modelleisenbahner",
+    "from": 1900,
+    "description": "Spurweiten, Anlagen im Keller und ein Sammlerstück, das nicht mehr hergestellt wird."
+  },
+  {
+    "name": "Tanzsport",
+    "from": 1900,
+    "description": "Turnierklassen, Kostüme mit Strass und Paare, die sich auf dem Parkett besser verstehen als zu Hause."
+  },
+  {
+    "name": "Pharmaforschung",
+    "from": 1880,
+    "description": "Studien, Patente und Nebenwirkungen, die im Anhang stehen."
+  },
+  {
+    "name": "Raumfahrt",
+    "from": 1960,
+    "description": "Startfenster, Auswahlverfahren und Missionen, für die nur Platz für einen ist."
+  },
+  {
+    "name": "Influencer und Content-Häuser",
+    "from": 2012,
+    "description": "Reichweite, Kooperationen und Streit darum, wer welche Idee zuerst hatte."
+  },
+  {
+    "name": "Gaming-Entwicklerstudio",
+    "from": 1985,
+    "description": "Crunch, Publisher und ein Spiel, das seit acht Jahren fast fertig ist."
+  },
+  {
+    "name": "Fahrradkuriere",
+    "from": 1990,
+    "description": "Funkgeräte, Rotlichter und Sendungen, deren Inhalt man besser nicht kennt."
+  },
+  {
+    "name": "Hutmacher und Putzmacherinnen",
+    "from": 1700,
+    "to": 1970,
+    "description": "Filz, Federn und Kundinnen aus besseren Kreisen."
+  },
+  {
+    "name": "Bergbau und Knappschaft",
+    "from": 1200,
+    "description": "Schichten, Grubenwehr und Kameradschaft, die man unter Tage braucht."
+  },
+  {
+    "name": "Kirchengemeinde",
+    "description": "Kollekte, Kirchenvorstand und Beichtgeheimnisse."
+  },
+  {
+    "name": "Kurbetrieb und Bäderwesen",
+    "from": 1750,
+    "description": "Kurärzte, Kurtaxe und Gäste, die mehr suchen als Heilung."
+  },
+  {
+    "name": "Diplomatisches Korps",
+    "from": 1700,
+    "description": "Empfänge, Immunität und Depeschen im Diplomatengepäck."
+  },
+  {
+    "name": "Rennsport",
+    "from": 1900,
+    "description": "Boxengasse, Startnummern und Sponsoren, die Siege erwarten."
+  },
+  {
+    "name": "Konditoren und Zuckerbäcker",
+    "from": 1500,
+    "description": "Hoflieferanten, Marzipan und Hochzeitstorten mit fünf Etagen."
+  },
+  {
+    "name": "Taxifahrer",
+    "from": 1900,
+    "description": "Konzessionen, Funkzentrale und Fahrgäste, die man nie vergisst."
+  },
+  {
+    "name": "Hausbesetzerszene",
+    "from": 1970,
+    "to": 2000,
+    "description": "Plenum, Volxküche und Polizeieinsätze im Morgengrauen."
+  },
+  {
+    "name": "Schäfer und Wanderhirten",
+    "description": "Herden, Hütehunde und Weiderechte, über die seit Jahrhunderten gestritten wird."
+  },
+  {
+    "name": "Rundfunk",
+    "from": 1923,
+    "description": "Sendeleiter, Hörspiele und Sprecherinnen mit berühmter Stimme."
+  },
+  {
+    "name": "Archäologie",
+    "from": 1820,
+    "description": "Grabungslizenzen, Fundteilung und Ruhm für die, die zuerst veröffentlichen."
+  },
+  {
+    "name": "Astronomie",
+    "description": "Beobachtungsnächte, Kometenentdeckungen und Namen, die an Himmelskörpern hängen."
+  },
+  {
+    "name": "Söldner und Marketenderinnen",
+    "to": 1700,
+    "description": "Sold, Beute und Loyalität, die nur so lange hält wie die Kasse."
+  },
+  {
+    "name": "Gladiatoren und Arenabetrieb",
+    "to": 450,
+    "description": "Lanisten, Gönner und Kämpfe, deren Ausgang schon verkauft ist."
+  },
+  {
+    "name": "Gewürzhändler",
+    "to": 1900,
+    "description": "Pfeffer, Safran und Waagen, die zu Gunsten des Händlers geeicht sind."
+  },
+  {
+    "name": "Karneval und Fastnacht",
+    "from": 1820,
+    "description": "Elferrat, Büttenreden und Prinzenpaare, die viel Geld mitbringen müssen."
+  },
+  {
+    "name": "Tierpräparatoren",
+    "from": 1800,
+    "description": "Arsenseife, Glasaugen und Sammler mit merkwürdigen Wünschen."
+  },
+  {
+    "name": "Tätowierer",
+    "from": 1950,
+    "description": "Studios, Gastspiele und Motive, die man nicht wieder loswird."
+  },
+  {
+    "name": "Pilzsammler und Mykologen",
+    "description": "Fundstellen, die man niemandem verrät, und Bestimmungsbücher mit Eselsohren."
+  },
+  {
+    "name": "Klimaforschung",
+    "from": 1980,
+    "description": "Eisbohrkerne, Messreihen und Ergebnisse, die nicht allen gefallen."
+  },
+  {
+    "name": "Weltraumbergbau",
+    "from": 2040,
+    "description": "Schürfrechte auf Asteroiden, Konzerne und Arbeiter mit Zeitverträgen."
+  },
+  {
+    "name": "Gentechnik und Biohacking",
+    "from": 2015,
+    "description": "Labore in Garagen, Selbstversuche und Patente auf Lebewesen."
+  },
+  {
+    "name": "Blasmusik und Festzeltkapellen",
+    "from": 1850,
+    "description": "Blaskapelle, Festzeltsaison und Noten, die nur der Kapellmeister hat."
+  }
+]

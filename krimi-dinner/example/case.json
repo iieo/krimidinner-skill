@@ -1,0 +1,605 @@
+{
+  "title": "Der letzte Jahrgang",
+  "subtitle": "Ein Krimidinner für 4 Personen",
+  "players": 4,
+  "round_count": 2,
+  "tone": "klassisch",
+  "era": "1962",
+  "setting": "Weingut Kranich an der Mosel",
+  "duration": "2 bis 3 Stunden",
+  "min_age": 14,
+  "dice": {},
+  "what_happened": "Herbst 1962 an der Mosel. Konrad Kranich, Herr über das Weingut Kranich, lädt zur Probe seines besten Jahrgangs. Der 1959er Auslese soll endlich aus dem Keller kommen, und Konrad will an diesem Abend eine Ansprache halten. Worüber, verrät er niemandem.\n\nUm halb neun steigt er in den Gewölbekeller, um sein Glas zu holen. Eine Viertelstunde später findet ihn die Köchin Rosa Lindner zusammengesunken am Probiertisch. Der Polizeiarzt spricht von Gift. Das Tor des Weinguts war den ganzen Abend verschlossen, also muss es jemand aus der kleinen Runde gewesen sein.",
+  "intro": {
+    "speaker": "r3",
+    "text": "Meine Damen, meine Herren, bitte einen Augenblick.\n\nIch habe Herrn Kranich vorhin unten im Keller gefunden. Er saß am Probiertisch, das Glas lag neben ihm auf dem Boden, und er hat nicht mehr geatmet. Kommissarin Brandt ist schon unterwegs nach oben, und sie hat gesagt, dass keiner von uns das Haus verlässt.\n\nIch koche seit zwanzig Jahren in diesem Haus, aber so einen Abend habe ich noch nicht erlebt. Nicht alle hier kennen sich. Ich schlage vor, dass jeder kurz sagt, wer er ist und warum er heute hier ist. Ich fange an. Mein Name ist Rosa Lindner, ich bin die Köchin."
+  },
+  "victim": {
+    "name": "Konrad Kranich",
+    "age": 68,
+    "description": "Der Winzer führt das Weingut seit vierzig Jahren mit harter Hand. Er ist großzügig, wenn es ihm passt, und nachtragend, wenn nicht. Für diesen Abend hat er eine Ansprache angekündigt, die alles verändern sollte."
+  },
+  "investigator": {
+    "name": "Elfriede Brandt",
+    "title": "Kommissarin",
+    "description": "Die Kommissarin aus Trier war zufällig im Nachbarort. Sie spricht wenig, schreibt viel mit und liest den Gästen zu Beginn jeder Runde vor, was ihre Leute gefunden haben."
+  },
+  "roles": [
+    {
+      "id": "r1",
+      "name": "Helene Kranich",
+      "age": 34,
+      "occupation": "Kellermeisterin",
+      "tagline": "Die Tochter des Hauses kennt jedes Fass im Keller und hofft seit Jahren, das Weingut zu übernehmen.",
+      "profile": "Du bist Helene Kranich, die einzige Tochter von Konrad Kranich. Seit du sechzehn bist, stehst du im Keller. Du hast in Geisenheim gelernt, du kennst jedes Fass beim Namen, und die 1959er Auslese ist eigentlich dein Wein, auch wenn dein Vater das Etikett mit seinem Namen bedrucken lässt.\n\nDein Vater hat dir immer versprochen, dass das Gut einmal dir gehört. In den letzten Monaten hat sich etwas verändert. Ein Weinhändler aus Koblenz, Viktor Seidel, kam immer öfter zu Besuch. Du hast Papiere auf dem Schreibtisch gesehen, die nach einem Kaufvertrag aussahen. Als du deinen Vater darauf angesprochen hast, hat er nur gelacht und gesagt, du würdest es am Abend der Probe erfahren.\n\nWas niemand weiß: Du hast selbst mit Viktor Seidel gesprochen, heimlich, vor drei Wochen in Koblenz. Du wolltest herausfinden, wie weit die Verhandlungen sind. Seidel hat dir angeboten, dich als Kellermeisterin zu behalten, falls er kauft. Du hast nicht abgelehnt. Wenn das herauskommt, sieht es aus, als hättest du deinen Vater verraten.\n\nHeute Abend lief zunächst alles nach Plan. Gegen zehn vor acht bist du in den Keller gegangen und hast das Glas für die Ansprache gefüllt, mit der Auslese aus dem kleinen Fass ganz hinten. Das Glas hast du auf den Probiertisch gestellt, wie dein Vater es wollte. Kurz nach acht warst du im Arbeitszimmer, um die Rede zu holen, und hast dort etwas gesehen, das dir nicht gefällt. Ab zehn nach acht saßt du mit deinem Vater im Salon. Um fünf vor halb neun ist er hinuntergegangen. Lebend hast du ihn nicht wiedergesehen.\n\nDu bist traurig und wütend zugleich. Du willst wissen, wer das getan hat, und du willst, dass das Gut in der Familie bleibt.",
+      "secret": "Du hast dich heimlich mit Viktor Seidel getroffen und sein Angebot, unter ihm Kellermeisterin zu bleiben, nicht abgelehnt.",
+      "motive": "Dein Vater wollte das Gut offenbar verkaufen und dich damit um dein Erbe bringen.",
+      "goal": "Finde heraus, ob dein Vater den Verkauf wirklich unterschreiben wollte, und sorge dafür, dass das Gut in der Familie bleibt.",
+      "costume": "Ein schlichtes dunkles Kleid oder eine Hose mit Bluse, darüber eine Lederschürze. Hochgestecktes Haar, vielleicht ein Weinthermometer in der Tasche.",
+      "how_to_play": "Du bist nicht die Täterin und darfst nicht lügen. Wenn dich jemand direkt fragt, ob du Seidel getroffen hast, musst du es zugeben. Bis dahin darfst du ausweichen. Du bist stolz und schnell gekränkt, wenn jemand deinen Wein lobt und deinen Vater meint.",
+      "is_culprit": false,
+      "may_lie": false,
+      "dossiers": [
+        {
+          "about": "r2",
+          "text": "Der Hausarzt und Jagdfreund deines Vaters. Er kommt seit Jahren zu jeder Probe. In letzter Zeit wirkt er fahrig, und dein Vater hat ihn zweimal sehr kühl begrüßt."
+        },
+        {
+          "about": "r3",
+          "text": "Die Köchin, seit zwanzig Jahren im Haus. Sie hat dich als Kind mit Apfelkuchen bestochen. Du vertraust ihr, meistens."
+        },
+        {
+          "about": "r4",
+          "text": "Der Weinhändler aus Koblenz. Höflich, gut angezogen und ziemlich hartnäckig, wenn er etwas will."
+        }
+      ],
+      "booklet_intro": "Hier stehen die Dinge, an die du dich im Lauf des Abends erinnerst oder die du erfährst. Lies immer nur die Runde, die gerade beginnt. Was du hier liest, darfst du am Tisch erzählen. Was dich selbst belastet, musst du erst zugeben, wenn dich jemand direkt danach fragt.",
+      "rounds": [
+        {
+          "n": 1,
+          "text": "Dir fällt wieder ein, was du kurz nach acht im Arbeitszimmer gesehen hast: Rosa Lindner stand am Schreibtisch deines Vaters, die Geldkassette war offen, und sie hat schnell etwas in ihre Schürzentasche gesteckt. Als sie dich sah, ist sie rot geworden und hat behauptet, sie habe nur die Servietten gesucht.\n\nDu weißt noch nicht, ob das etwas mit dem Tod deines Vaters zu tun hat. Aber es gehört auf den Tisch."
+        },
+        {
+          "n": 2,
+          "text": "Als Dr. Wendt deinen Vater im Keller untersucht hat, stand seine Arzttasche offen neben dir. Darin lag ein leeres braunes Fläschchen mit dem Etikett „Digitalis-Tinktur“. Wendt hat die Tasche sofort zugeklappt, als er deinen Blick bemerkt hat.\n\nAußerdem bist du dir jetzt sicher: Zwischen zehn nach acht und zwanzig nach acht fehlten im Salon drei Leute. Dr. Wendt, Viktor Seidel und Rosa Lindner. Du und dein Vater wart allein mit der Auslese."
+        }
+      ]
+    },
+    {
+      "id": "r2",
+      "name": "Dr. Albert Wendt",
+      "age": 55,
+      "occupation": "Landarzt",
+      "tagline": "Der Hausarzt der Familie ist seit dreißig Jahren Konrads Jagdfreund und bei jeder Weinprobe dabei.",
+      "profile": "Du bist Dr. Albert Wendt, Landarzt im Nachbarort und seit dreißig Jahren Konrad Kranichs Jagdfreund. Du hast seine Tochter auf die Welt geholt und seiner Frau bis zum Ende beigestanden. Auf dem Weingut gehst du ein und aus.\n\nDu hast ein Problem, von dem niemand wissen darf. Seit einer Rückenoperation vor vier Jahren nimmst du Morphium. Erst gegen die Schmerzen, dann gegen alles andere. Das Geld für die Ampullen, die du nicht über die Apotheke beziehen kannst, hat dich ruiniert. Vor einem Jahr hast du dir bei Konrad zwanzigtausend Mark geliehen und einen Schuldschein unterschrieben.\n\nVor zwei Wochen hat Konrad herausgefunden, wofür das Geld war. Er hat dir ein Ultimatum gestellt: Bis zum Tag nach der Probe zahlst du alles zurück, sonst schreibt er an die Ärztekammer. Das wäre das Ende deiner Praxis und deines Rufs.\n\nHeute Abend um zwanzig vor acht hat er dich im Arbeitszimmer noch einmal daran erinnert, laut genug, dass man es im Flur hören konnte. Da hast du dich entschieden. In deiner Tasche hattest du Digitalis-Tinktur, die du für einen Herzpatienten mitgebracht hattest. Um zehn nach acht bist du in den Keller gegangen, hast die Tinktur mit einer Pipette in das Glas auf dem Probiertisch getropft und bist nach fünf Minuten wieder hinaufgestiegen. Die Pipette hast du später in der Küche in die Spülwanne geworfen.\n\nDu bist der Täter. Du darfst lügen. Deine Geschichte: Du warst kurz im Keller, um dich bei Konrad für den Streit zu entschuldigen, aber er war nicht dort, und du bist gleich wieder hoch. Das Fläschchen in deiner Tasche war schon gestern leer, du hast es einem Patienten gegeben. Bleib ruhig, sei hilfsbereit, und lenk den Verdacht auf andere.",
+      "secret": "Du bist morphiumabhängig und schuldest Konrad zwanzigtausend Mark.",
+      "motive": "Konrad wollte dich bei der Ärztekammer anzeigen, wenn du die Schulden nicht sofort zurückzahlst.",
+      "goal": "Bleib unentdeckt und sorge dafür, dass der Schuldschein nicht als Motiv verstanden wird.",
+      "costume": "Tweedjackett, Fliege, eine Taschenuhr an der Kette. Eine alte Arzttasche aus Leder, wenn du eine findest.",
+      "how_to_play": "Du bist der Täter und darfst lügen. Gib nur zu, was ohnehin bewiesen ist, und auch dann nur so viel wie nötig. Du bist freundlich, väterlich und immer bereit, einen anderen Verdacht ins Gespräch zu bringen. Am besten wirkt das, wenn du dabei besorgt klingst.",
+      "is_culprit": true,
+      "may_lie": true,
+      "dossiers": [
+        {
+          "about": "r1",
+          "text": "Konrads Tochter. Begabt, stur und in letzter Zeit oft im Streit mit ihrem Vater wegen des Verkaufs. Du hast sie um zehn vor acht aus dem Keller kommen sehen."
+        },
+        {
+          "about": "r3",
+          "text": "Die Köchin. Sie hat Zugang zu allem im Haus, auch zum Rattengift im Kellerschrank. Du weißt, dass sie Geldsorgen hat."
+        },
+        {
+          "about": "r4",
+          "text": "Der Weinhändler. Er wollte das Gut kaufen, und Konrad hat ihn hingehalten. Er war vor acht unten im Keller."
+        }
+      ],
+      "booklet_intro": "In diesem Heft steht, was du im Lauf des Abends erfährst und was du den anderen erzählen kannst, um den Verdacht von dir abzulenken. Lies immer nur die Runde, die gerade beginnt. Denk daran: Du darfst lügen, aber verstrick dich nicht.",
+      "rounds": [
+        {
+          "n": 1,
+          "text": "Erzähl den anderen, dass Rosa Lindner einen Schlüssel zum Giftschrank im Keller hat. Dort steht Rattengift. Das ist wahr, auch wenn Konrad nicht an Rattengift gestorben ist. Das weißt aber nur du.\n\nDu hast außerdem gesehen, dass Helene Kranich um zehn vor acht aus dem Keller kam. Auch das darfst du ruhig erwähnen."
+        },
+        {
+          "n": 2,
+          "text": "Der Polizeiarzt hat Digitalis gefunden. Jetzt wird es eng. Lenk den Blick auf Viktor Seidel: Er war vor acht im Keller, er hatte Streit mit Konrad, und als Weinhändler kennt er sich mit Fässern und Gläsern aus.\n\nWenn jemand das leere Fläschchen erwähnt, bleib bei deiner Geschichte: leer seit gestern, für einen Patienten in Bernkastel."
+        }
+      ]
+    },
+    {
+      "id": "r3",
+      "name": "Rosa Lindner",
+      "age": 52,
+      "occupation": "Köchin",
+      "tagline": "Seit zwanzig Jahren kocht sie auf dem Weingut. Sie hört alles, sieht alles und sagt selten etwas.",
+      "profile": "Du bist Rosa Lindner und kochst seit zwanzig Jahren für die Familie Kranich. Du hast Helene großgezogen, als ihre Mutter krank wurde, und du kennst das Haus besser als jeder andere. Du weißt, welche Dielen knarren und welche Tür im Flur nicht ganz schließt.\n\nKonrad Kranich war kein einfacher Dienstherr. Seit drei Jahren hat er deinen Lohn nicht erhöht, und im Frühjahr hat er dir sogar etwas abgezogen, weil angeblich zu viel Butter verbraucht wurde. Dein Bruder in Wittlich ist krank und braucht eine Kur, die die Kasse nicht zahlt.\n\nDein Geheimnis: Seit einem halben Jahr nimmst du ab und zu Geld aus der Kassette im Arbeitszimmer. Nie viel, immer nur einen Schein. Heute kurz nach acht hast du es wieder getan, und ausgerechnet da kam Helene herein. Du hast etwas von Servietten gestottert. Du schämst dich, und du hast Angst, dass man dich jetzt für eine Mörderin hält.\n\nDer Abend: Um zwanzig vor acht hast du im Flur gehört, wie Herr Kranich im Arbeitszimmer Dr. Wendt angeschrien hat. Kurz davor hat Herr Seidel im Flur gesagt, das werde Herrn Kranich teuer zu stehen kommen. Von zehn nach acht bis halb neun warst du in der Küche und hast den Braten gemacht. Um Viertel vor neun wolltest du Herrn Kranich zum Essen holen und hast ihn im Keller gefunden.\n\nDu hast einen Schlüssel zum Giftschrank im Keller, weil dort das Rattengift steht. Das wissen alle im Haus. Du hast den Schrank seit Wochen nicht geöffnet.\n\nDu bist keine Mörderin. Du willst, dass der Richtige gefunden wird, und du willst nicht, dass deine kleine Sünde heute Abend herauskommt.",
+      "secret": "Du nimmst seit einem halben Jahr Geld aus der Kassette im Arbeitszimmer.",
+      "motive": "Konrad hat dir den Lohn gekürzt, und du brauchst Geld für deinen kranken Bruder.",
+      "goal": "Hilf, den Täter zu finden, und versuche, die Sache mit der Kassette für dich zu behalten.",
+      "costume": "Kittelschürze, Kopftuch oder Haarnetz, ein Kochlöffel in der Hand. Bequeme Schuhe.",
+      "how_to_play": "Du bist nicht die Täterin und darfst nicht lügen. Fragt dich jemand direkt nach der Kassette, musst du es zugeben. Du bist resolut, ein bisschen vorlaut und redest gern über andere, aber ungern über dich.",
+      "is_culprit": false,
+      "may_lie": false,
+      "dossiers": [
+        {
+          "about": "r1",
+          "text": "Helene ist für dich fast wie eine Tochter. Sie hat in letzter Zeit viel mit ihrem Vater gestritten, meistens wegen des Händlers aus Koblenz."
+        },
+        {
+          "about": "r2",
+          "text": "Der Doktor ist immer höflich zu dir. In letzter Zeit sieht er schlecht aus, blass und mit zitternden Händen."
+        },
+        {
+          "about": "r4",
+          "text": "Der Händler aus Koblenz. Er gibt gutes Trinkgeld und lobt dein Essen, aber er schaut sich im Haus um, als gehöre es ihm schon."
+        }
+      ],
+      "booklet_intro": "Hier steht, woran du dich im Lauf des Abends erinnerst. Lies immer nur die Runde, die gerade beginnt, und erzähl am Tisch, was du weißt. Was dich selbst betrifft, musst du erst zugeben, wenn dich jemand direkt fragt.",
+      "rounds": [
+        {
+          "n": 1,
+          "text": "Erzähl, was du um zwanzig vor acht im Flur gehört hast. Herr Kranich hat im Arbeitszimmer gerufen: „Bis morgen, Albert, oder die Kammer erfährt alles.“ Dr. Wendt kam danach heraus und war kreidebleich.\n\nUnd kurz davor, so gegen halb acht, hat Herr Seidel im Flur zu Herrn Kranich gesagt: „Das wird Sie teuer zu stehen kommen.“ Die beiden kamen gerade aus dem Keller."
+        },
+        {
+          "n": 2,
+          "text": "Beim Abwasch nach dem Unglück hast du in der Spülwanne etwas gefunden, das nicht dorthin gehört: eine kleine gläserne Pipette, wie Ärzte sie benutzen. Mit Weinresten. Aus deiner Küche ist sie nicht."
+        }
+      ]
+    },
+    {
+      "id": "r4",
+      "name": "Viktor Seidel",
+      "age": 47,
+      "occupation": "Weinhändler",
+      "tagline": "Der Händler aus Koblenz wollte das Weingut kaufen und ist für die Probe angereist.",
+      "profile": "Du bist Viktor Seidel, Weinhändler aus Koblenz, mit einem Laden am Deutschen Eck und Kunden bis nach Hamburg. Seit einem Jahr verhandelst du mit Konrad Kranich über den Kauf seines Weinguts. Der Preis war ausgemacht, der Vertrag aufgesetzt. Du hast schon Geld in Fässer und Etiketten gesteckt, im festen Glauben, dass die Unterschrift nur noch Formsache ist.\n\nVor drei Wochen hast du dich heimlich mit Helene Kranich in Koblenz getroffen. Sie wollte wissen, wie weit die Verhandlungen sind. Du hast ihr angeboten, sie als Kellermeisterin zu behalten. Ihr habt vereinbart, dass ihr Vater davon nichts erfährt.\n\nHeute Abend um halb acht hat Konrad dich mit in den Keller genommen. Zwischen den Fässern hat er dir gesagt, er unterschreibe nicht. Er habe es sich anders überlegt, er wolle das Gut seiner Tochter geben, und das werde er heute in seiner Rede verkünden. Du warst außer dir. Im Flur hast du ihm gesagt, das werde ihn teuer zu stehen kommen. Das war dumm, und das weißt du.\n\nVon acht bis zwanzig nach acht hast du in der Diele telefoniert, mit deinem Anwalt in Koblenz, über das Fernamt. Durch die offene Tür konntest du die Kellertreppe und die Küche sehen. Rosa stand die ganze Zeit am Herd. Um Viertel nach acht kam Dr. Wendt die Kellertreppe herauf, obwohl er später behauptet hat, er habe Herrn Kranich unten gar nicht angetroffen.\n\nDu hast Konrad nicht getötet. Ohne ihn ist dein Vertrag wertlos, du hast also eher verloren. Aber du hattest Streit mit ihm, und das sieht schlecht aus.",
+      "secret": "Du hast Helene heimlich angeboten, sie nach dem Kauf als Kellermeisterin zu behalten.",
+      "motive": "Konrad hat den Verkauf heute Abend platzen lassen, nachdem du schon viel Geld investiert hattest.",
+      "goal": "Finde heraus, ob der Kaufvertrag noch zu retten ist, und mach dich nicht verdächtiger, als du bist.",
+      "costume": "Dunkler Anzug, Einstecktuch, pomadisiertes Haar. Ein silberner Probierbecher an einer Kette um den Hals.",
+      "how_to_play": "Du bist nicht der Täter und darfst nicht lügen. Du bist geschäftsmäßig und charmant, aber leicht reizbar, wenn es um Geld geht. Wenn dich jemand direkt nach dem Treffen mit Helene fragt, musst du es zugeben.",
+      "is_culprit": false,
+      "may_lie": false,
+      "dossiers": [
+        {
+          "about": "r1",
+          "text": "Konrads Tochter. Sie macht den eigentlichen Wein auf diesem Gut, das weiß in Koblenz jeder Händler. Ihr habt eine Abmachung, von der niemand wissen soll."
+        },
+        {
+          "about": "r2",
+          "text": "Der Hausarzt. Er hat dich letzte Woche am Telefon um ein Darlehen gebeten, was dich sehr gewundert hat."
+        },
+        {
+          "about": "r3",
+          "text": "Die Köchin. Hervorragender Rinderbraten, scharfe Zunge."
+        }
+      ],
+      "booklet_intro": "Hier steht, was dir im Lauf des Abends einfällt oder was du erfährst. Lies nur die Runde, die gerade beginnt. Was du hier liest, kannst du am Tisch erzählen.",
+      "rounds": [
+        {
+          "n": 1,
+          "text": "Gib zu, dass du dich mit Konrad gestritten hast, wenn jemand danach fragt. Der Verkauf ist geplatzt.\n\nErzähl den anderen auch, warum. Konrad hat dir im Keller gesagt, er wolle das Gut seiner Tochter übergeben und das heute in seiner Rede verkünden. Helene wusste davon nichts. Für sie war der Kaufvertrag also gar keine Gefahr mehr, auch wenn sie das nicht ahnen konnte."
+        },
+        {
+          "n": 2,
+          "text": "Jetzt erinnerst du dich an mehr. Letzte Woche hat Dr. Wendt dich angerufen und um ein Darlehen über zwanzigtausend Mark gebeten. Er sagte, er stecke in Schwierigkeiten.\n\nAußerdem hast du beim Telefonieren durch die offene Tür gesehen, wie Dr. Wendt um Viertel nach acht die Kellertreppe heraufkam. Und Rosa Lindner stand die ganze Zeit von acht bis zwanzig nach acht in der Küche am Herd. Sie kann also nicht im Keller gewesen sein."
+        }
+      ]
+    }
+  ],
+  "investigator_rounds": [
+    {
+      "n": 1,
+      "text": "Meine Leute haben das Arbeitszimmer von Herrn Kranich durchsucht. In der Schreibtischschublade lagen zwei Papiere, die ich Ihnen nicht vorenthalten will. Das erste ist ein Schuldschein. Das zweite ist ein Kaufvertrag, aufgesetzt, aber nicht unterschrieben.",
+      "evidence": [
+        {
+          "title": "Schuldschein aus der Schreibtischschublade",
+          "content": "Schuldschein\n\nIch, Dr. med. Albert Wendt, bekenne, von Herrn Konrad Kranich ein Darlehen über 20.000 DM erhalten zu haben, rückzahlbar auf Verlangen.\n\nBernkastel, den 2. Oktober 1961\ngez. A. Wendt"
+        },
+        {
+          "title": "Entwurf eines Kaufvertrags",
+          "content": "Kaufvertrag (Entwurf)\n\nVerkäufer: Konrad Kranich, Weingut Kranich\nKäufer: Viktor Seidel, Weinhandlung Seidel, Koblenz\nGegenstand: Weingut samt Rebflächen, Kelterhaus und Keller\n\nEin Nachlass an die Tochter ist nicht vorgesehen.\n\nUnterschriften: (leer)"
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "text": "Der Polizeiarzt ist fertig. Herr Kranich ist nicht an Rattengift gestorben, sondern an Digitalis, einem Herzmittel, das man nur in der Apotheke oder beim Arzt bekommt. Außerdem haben wir die Schuhe aller Anwesenden angesehen und beim Fernamt in Trier angerufen.",
+      "evidence": [
+        {
+          "title": "Bericht des Polizeiarztes",
+          "content": "Todesursache: Herzstillstand nach Vergiftung mit Digitalis. Die Dosis entspricht etwa einem Fläschchen handelsüblicher Tinktur. Spuren im Glas auf dem Probiertisch. Kein Hinweis auf Rattengift."
+        },
+        {
+          "title": "Vermerk zur Spurensicherung",
+          "content": "Kellerboden frisch gekalkt (Mittwoch). Kalkspuren an den Schuhen von Herrn Kranich und Dr. Wendt. Schuhe von H. Kranich und V. Seidel sauber, laut Aussage seit dem Umziehen um 19 Uhr nicht im Keller."
+        },
+        {
+          "title": "Auskunft des Fernamts Trier",
+          "content": "Ferngespräch Weingut Kranich nach Koblenz, Kanzlei Dr. Hesse, von 20:01 bis 20:19 Uhr. Teilnehmer: Herr Seidel."
+        }
+      ]
+    }
+  ],
+  "truth": {
+    "culprit": "r2",
+    "accomplices": [],
+    "means": "Digitalis-Tinktur aus Wendts Arzttasche, mit einer Pipette in das Glas der Auslese auf dem Probiertisch getropft.",
+    "motive": "Konrad wollte Wendt bei der Ärztekammer wegen seiner Morphiumsucht anzeigen, wenn er die 20.000 Mark nicht sofort zurückzahlt.",
+    "time_of_death": "20:10",
+    "timeline": [
+      {
+        "time": "19:30",
+        "place": "Keller und Flur",
+        "who": [
+          "r4",
+          "victim"
+        ],
+        "what": "Konrad sagt Seidel im Keller, dass er nicht verkauft. Im Flur droht Seidel ihm.",
+        "seen_by": [
+          "r3"
+        ]
+      },
+      {
+        "time": "19:40",
+        "place": "Arbeitszimmer",
+        "who": [
+          "r2",
+          "victim"
+        ],
+        "what": "Konrad stellt Wendt ein letztes Ultimatum.",
+        "seen_by": [
+          "r3"
+        ]
+      },
+      {
+        "time": "19:50",
+        "place": "Keller",
+        "who": [
+          "r1"
+        ],
+        "what": "Helene füllt das Glas mit der Auslese und stellt es auf den Probiertisch.",
+        "seen_by": [
+          "r2"
+        ]
+      },
+      {
+        "time": "20:01",
+        "place": "Diele",
+        "who": [
+          "r4"
+        ],
+        "what": "Seidel telefoniert bis 20:19 mit Koblenz und sieht Kellertreppe und Küche.",
+        "seen_by": []
+      },
+      {
+        "time": "20:05",
+        "place": "Arbeitszimmer",
+        "who": [
+          "r3",
+          "r1"
+        ],
+        "what": "Rosa nimmt Geld aus der Kassette, Helene ertappt sie.",
+        "seen_by": [
+          "r1"
+        ]
+      },
+      {
+        "time": "20:10",
+        "place": "Keller",
+        "who": [
+          "r2"
+        ],
+        "what": "Wendt tropft Digitalis in das Glas.",
+        "seen_by": []
+      },
+      {
+        "time": "20:15",
+        "place": "Kellertreppe",
+        "who": [
+          "r2"
+        ],
+        "what": "Wendt kommt aus dem Keller herauf.",
+        "seen_by": [
+          "r4"
+        ]
+      },
+      {
+        "time": "20:25",
+        "place": "Keller",
+        "who": [
+          "victim"
+        ],
+        "what": "Konrad holt sein Glas und probiert.",
+        "seen_by": [
+          "r1"
+        ]
+      },
+      {
+        "time": "20:45",
+        "place": "Keller",
+        "who": [
+          "r3"
+        ],
+        "what": "Rosa findet Konrad tot.",
+        "seen_by": []
+      }
+    ],
+    "cover_story": "Wendt war um zehn nach acht kurz im Keller, um sich bei Konrad zu entschuldigen, traf ihn nicht an und ging gleich wieder hoch. Das Fläschchen war seit gestern leer."
+  },
+  "clues": [
+    {
+      "id": "h1",
+      "round": 1,
+      "source": "r3",
+      "text": "Rosa hört Konrad um 19:40 rufen: „Bis morgen, Albert, oder die Kammer erfährt alles.“",
+      "kind": "true",
+      "points": [
+        {
+          "to": "r2",
+          "aspect": "motive"
+        }
+      ],
+      "refuted_by": []
+    },
+    {
+      "id": "h2",
+      "round": 1,
+      "source": "investigator",
+      "text": "Schuldschein über 20.000 DM, unterschrieben von Dr. Wendt.",
+      "kind": "true",
+      "points": [
+        {
+          "to": "r2",
+          "aspect": "motive"
+        }
+      ],
+      "refuted_by": []
+    },
+    {
+      "id": "h3",
+      "round": 2,
+      "source": "r4",
+      "text": "Wendt hat Seidel letzte Woche um ein Darlehen über 20.000 Mark gebeten.",
+      "kind": "true",
+      "points": [
+        {
+          "to": "r2",
+          "aspect": "motive"
+        }
+      ],
+      "refuted_by": []
+    },
+    {
+      "id": "h4",
+      "round": 2,
+      "source": "investigator",
+      "text": "Todesursache Digitalis, ein Mittel vom Arzt oder aus der Apotheke.",
+      "kind": "true",
+      "points": [
+        {
+          "to": "r2",
+          "aspect": "means"
+        }
+      ],
+      "refuted_by": []
+    },
+    {
+      "id": "h5",
+      "round": 2,
+      "source": "r1",
+      "text": "Leeres Fläschchen Digitalis-Tinktur in Wendts Arzttasche.",
+      "kind": "true",
+      "points": [
+        {
+          "to": "r2",
+          "aspect": "means"
+        }
+      ],
+      "refuted_by": []
+    },
+    {
+      "id": "h6",
+      "round": 2,
+      "source": "r3",
+      "text": "Ärztliche Pipette mit Weinresten in der Spülwanne.",
+      "kind": "true",
+      "points": [
+        {
+          "to": "r2",
+          "aspect": "means"
+        }
+      ],
+      "refuted_by": []
+    },
+    {
+      "id": "h7",
+      "round": 2,
+      "source": "investigator",
+      "text": "Kalkspuren vom frisch gekalkten Kellerboden an Wendts Schuhen.",
+      "kind": "true",
+      "points": [
+        {
+          "to": "r2",
+          "aspect": "opportunity"
+        }
+      ],
+      "refuted_by": []
+    },
+    {
+      "id": "h8",
+      "round": 2,
+      "source": "r4",
+      "text": "Seidel sieht Wendt um 20:15 die Kellertreppe heraufkommen.",
+      "kind": "true",
+      "points": [
+        {
+          "to": "r2",
+          "aspect": "opportunity"
+        }
+      ],
+      "refuted_by": []
+    },
+    {
+      "id": "h9",
+      "round": 2,
+      "source": "r1",
+      "text": "Zwischen 20:10 und 20:20 fehlten im Salon Wendt, Seidel und Rosa.",
+      "kind": "true",
+      "points": [
+        {
+          "to": "r2",
+          "aspect": "opportunity"
+        },
+        {
+          "to": "r4",
+          "aspect": "opportunity"
+        },
+        {
+          "to": "r3",
+          "aspect": "opportunity"
+        }
+      ],
+      "refuted_by": []
+    },
+    {
+      "id": "h10",
+      "round": 1,
+      "source": "investigator",
+      "text": "Kaufvertrag ohne Nachlass an die Tochter.",
+      "kind": "true",
+      "points": [
+        {
+          "to": "r1",
+          "aspect": "motive"
+        },
+        {
+          "to": "r4",
+          "aspect": "motive"
+        }
+      ],
+      "refuted_by": []
+    },
+    {
+      "id": "h11",
+      "round": 1,
+      "source": "r2",
+      "text": "Wendt hat Helene um 19:50 aus dem Keller kommen sehen.",
+      "kind": "true",
+      "points": [
+        {
+          "to": "r1",
+          "aspect": "opportunity"
+        }
+      ],
+      "refuted_by": []
+    },
+    {
+      "id": "h12",
+      "round": 1,
+      "source": "r2",
+      "text": "Rosa hat einen Schlüssel zum Giftschrank mit Rattengift.",
+      "kind": "red_herring",
+      "points": [
+        {
+          "to": "r3",
+          "aspect": "means"
+        }
+      ],
+      "refuted_by": [
+        "h4"
+      ]
+    },
+    {
+      "id": "h13",
+      "round": 1,
+      "source": "r1",
+      "text": "Helene ertappt Rosa um 20:05 an der offenen Geldkassette.",
+      "kind": "secret",
+      "points": [
+        {
+          "to": "r3",
+          "aspect": "motive"
+        }
+      ],
+      "refuted_by": []
+    },
+    {
+      "id": "h14",
+      "round": 1,
+      "source": "r3",
+      "text": "Seidel droht Konrad im Flur: „Das wird Sie teuer zu stehen kommen.“",
+      "kind": "true",
+      "points": [
+        {
+          "to": "r4",
+          "aspect": "motive"
+        }
+      ],
+      "refuted_by": []
+    },
+    {
+      "id": "h18",
+      "round": 1,
+      "source": "r4",
+      "text": "Konrad wollte das Gut Helene übergeben und das in seiner Rede verkünden.",
+      "kind": "true",
+      "points": [
+        {
+          "to": "r1",
+          "aspect": "clears"
+        }
+      ],
+      "refuted_by": []
+    },
+    {
+      "id": "h15",
+      "round": 2,
+      "source": "r2",
+      "text": "Wendt weist darauf hin, dass Seidel vor acht im Keller war.",
+      "kind": "true",
+      "points": [
+        {
+          "to": "r4",
+          "aspect": "opportunity"
+        }
+      ],
+      "refuted_by": []
+    },
+    {
+      "id": "h16",
+      "round": 2,
+      "source": "investigator",
+      "text": "Fernamt bestätigt Seidels Telefonat von 20:01 bis 20:19.",
+      "kind": "true",
+      "points": [
+        {
+          "to": "r4",
+          "aspect": "clears"
+        }
+      ],
+      "refuted_by": []
+    },
+    {
+      "id": "h17",
+      "round": 2,
+      "source": "r4",
+      "text": "Seidel sah Rosa von 20:00 bis 20:20 ununterbrochen am Herd.",
+      "kind": "true",
+      "points": [
+        {
+          "to": "r3",
+          "aspect": "clears"
+        }
+      ],
+      "refuted_by": []
+    }
+  ],
+  "solution": "Konrad Kranich starb an Digitalis, das jemand zwischen zehn nach acht und fünf vor halb neun in das Glas auf dem Probiertisch getropft hat. Helene Kranich hatte das Glas um zehn vor acht gefüllt, danach war es unbewacht.\n\nViktor Seidel hatte ein Motiv, denn der Verkauf war geplatzt. Aber laut Fernamt telefonierte er von 20:01 bis 20:19 in der Diele, und seine Schuhe waren sauber. Er war in der fraglichen Zeit nicht im Keller.\n\nRosa Lindner hatte einen Schlüssel zum Rattengift und hat Geld aus der Kassette genommen. Doch Konrad starb nicht an Rattengift, und Herr Seidel hat sie die ganze Zeit am Herd gesehen. Sie ist eine kleine Diebin, aber keine Mörderin.\n\nHelene Kranich hätte mit dem Verkauf ihr Erbe verloren. Aber sie saß ab zehn nach acht mit ihrem Vater im Salon, und an ihren Schuhen war kein Kalk. Sie hat ihren Vater nicht vergiftet.\n\nBleibt Dr. Albert Wendt. Er schuldete Konrad zwanzigtausend Mark, und Konrad drohte ihm mit der Ärztekammer. Digitalis bekommt man beim Arzt, und in seiner Tasche lag ein leeres Fläschchen. Die ärztliche Pipette fand Rosa in der Spülwanne. Kalk vom Kellerboden klebte an seinen Schuhen, und Viktor Seidel sah ihn um Viertel nach acht aus dem Keller kommen. Wendt sagt, er habe Konrad unten nicht angetroffen. Das stimmt sogar. Konrad war nicht dort, nur sein Glas.\n\nDr. Albert Wendt hat Konrad Kranich vergiftet.",
+  "props": [
+    {
+      "title": "Schuldschein",
+      "round": 1,
+      "content": "Schuldschein\n\nIch, Dr. med. Albert Wendt, bekenne, von Herrn Konrad Kranich ein Darlehen über 20.000 DM erhalten zu haben, rückzahlbar auf Verlangen.\n\nBernkastel, den 2. Oktober 1961\ngez. A. Wendt"
+    }
+  ]
+}

@@ -1,0 +1,448 @@
+[
+  {
+    "name": "Kurhaus in einem Badeort",
+    "from": 1800,
+    "description": "Trinkhalle, Lesesaal und ein Kurorchester, das jeden Abend dieselben drei Walzer spielt."
+  },
+  {
+    "name": "Weinlese-Gut an der Mosel",
+    "time": "zeitlos",
+    "description": "Kelterhaus, steile Hänge und ein Keller, in dem die besten Jahrgänge unter Verschluss liegen."
+  },
+  {
+    "name": "Polarforschungsstation",
+    "from": 1950,
+    "description": "Acht Leute, ein Funkgerät und der nächste Flug kommt erst in elf Tagen."
+  },
+  {
+    "name": "Zirkus-Winterquartier",
+    "from": 1800,
+    "description": "Die Tiere stehen in der Scheune, die Artisten proben im Kalten und streiten über die neue Saison."
+  },
+  {
+    "name": "Raumfähre im Erdorbit",
+    "from": 2035,
+    "description": "Enge Module, Klettverschlüsse an jedem Becher und ein Luftschleusenprotokoll, das jeder auswendig kennt."
+  },
+  {
+    "name": "Vereinsheim eines Fastnachtsvereins",
+    "from": 1820,
+    "description": "Elferratssitzung, Ordensverleihung und ein Prunkwagen, der in der Halle nebenan auf seinen Auftritt wartet."
+  },
+  {
+    "name": "Hochzeitsschiff auf dem Rhein",
+    "from": 1830,
+    "description": "Ein Ausflugsdampfer, gemietet für eine Nacht, und das nächste Ufer ist eine Stunde Fahrt entfernt."
+  },
+  {
+    "name": "Bergbaumuseum in einer stillgelegten Zeche",
+    "from": 1970,
+    "description": "Förderturm, Kauenkörbe unter der Decke und ein Stollen, den Besucher eigentlich nicht betreten dürfen."
+  },
+  {
+    "name": "Aktive Zeche unter Tage",
+    "from": 1850,
+    "to": 2018,
+    "description": "Sohle, Wetterführung und eine Pausenkammer, in der die Steiger ihre eigenen Regeln haben."
+  },
+  {
+    "name": "Orgelbauwerkstatt neben der Stadtkirche",
+    "description": "Pfeifen in allen Größen, Blasebälge und ein Instrument, das am Sonntag eingeweiht werden soll.",
+    "from": 900
+  },
+  {
+    "name": "Bahnhofshotel an einer Grenzstation",
+    "from": 1860,
+    "description": "Zollbeamte, Reisende mit zu viel Gepäck und ein Zug, der wegen Schnee nicht weiterfährt."
+  },
+  {
+    "name": "Nachtzug mit Speisewagen",
+    "from": 1880,
+    "description": "Abteile, ein Schaffner mit Generalschlüssel und eine Strecke durch die Alpen ohne Halt."
+  },
+  {
+    "name": "Luftschiff auf Überfahrt",
+    "from": 1910,
+    "to": 1937,
+    "description": "Promenadendeck mit Schrägfenstern, ein Rauchsalon mit Unterdruck und 2000 Meter Luft unter dem Boden."
+  },
+  {
+    "name": "Almhütte bei Schneesturm",
+    "time": "zeitlos",
+    "description": "Ein Ofen, ein Matratzenlager und eine Tür, die man nur mit Schaufel aufbekommt."
+  },
+  {
+    "name": "Leuchtturm mit Wärterhaus",
+    "from": 1800,
+    "description": "Ein Turm, ein Logbuch und eine Insel, auf die bei Sturm niemand kommt."
+  },
+  {
+    "name": "Klosterbrauerei",
+    "description": "Sudhaus, Kreuzgang und Mönche, die ihr Rezept seit Jahrhunderten hüten.",
+    "from": 800
+  },
+  {
+    "name": "Schrebergartenanlage mit Vereinsheim",
+    "from": 1870,
+    "description": "Parzellen, Gartenordnung mit Heckenhöhe und ein Vereinsheim mit Kegelbahn."
+  },
+  {
+    "name": "Kleinstadttheater bei der Generalprobe",
+    "from": 1750,
+    "description": "Requisitenkammer, Souffleurkasten und eine Premiere, die morgen ausverkauft ist."
+  },
+  {
+    "name": "Opernhaus hinter der Bühne",
+    "from": 1700,
+    "description": "Schnürboden, Garderoben mit Sternen an der Tür und eine Diva, die ihre Rolle nicht abgeben will."
+  },
+  {
+    "name": "Filmstudio in Babelsberg",
+    "from": 1912,
+    "description": "Kulissen aus Pappe, Scheinwerferhitze und ein Regisseur, der niemanden ausreden lässt."
+  },
+  {
+    "name": "Fernsehstudio bei einer Samstagabendshow",
+    "from": 1955,
+    "description": "Live-Sendung, Kameras auf Schienen und eine Saalwette, die schiefgehen könnte."
+  },
+  {
+    "name": "Radiosender in der Nachtschicht",
+    "from": 1925,
+    "description": "Ein Studio mit rotem Licht, Plattenschränke und Hörer, die anrufen dürfen."
+  },
+  {
+    "name": "Auktionshaus am Vorabend der Versteigerung",
+    "from": 1750,
+    "description": "Katalogisierte Lose, ein Tresorraum und Bieter, die sich nicht kennen wollen."
+  },
+  {
+    "name": "Naturkundemuseum nach Schließung",
+    "from": 1820,
+    "description": "Ausgestopfte Tiere, Dinosaurierskelett und Präparatoren, die abends noch arbeiten."
+  },
+  {
+    "name": "Sternwarte auf einem Hügel",
+    "from": 1700,
+    "description": "Kuppel, Teleskop und eine Nacht, in der ein Komet zu sehen sein soll."
+  },
+  {
+    "name": "Botanischer Garten mit Palmenhaus",
+    "from": 1820,
+    "description": "Feuchte Luft, seltene Orchideen und eine Pflanze, die nur alle zwanzig Jahre blüht."
+  },
+  {
+    "name": "Apotheke mit Laboratorium",
+    "description": "Giftschrank, Mörser und eine Rezeptur, die nur der Apotheker selbst kennt.",
+    "from": 1200
+  },
+  {
+    "name": "Weingut mit Gutsausschank",
+    "from": 1800,
+    "description": "Lange Tische unter Weinlaub, eine Kelter und ein Hofhund, der nicht bellt, wenn er die Person kennt."
+  },
+  {
+    "name": "Skihütte am Gletscher",
+    "from": 1900,
+    "description": "Fellreste an den Skiern, ein Funkgerät und ein Bergführer, der das Wetter fürchtet."
+  },
+  {
+    "name": "Pfahlbaudorf am See",
+    "to": 800,
+    "description": "Häuser auf Stelzen, Einbäume und ein Dorfältester, der die Fischgründe verteilt."
+  },
+  {
+    "name": "Römische Villa rustica",
+    "to": 450,
+    "description": "Fußbodenheizung, Weinkeller und Sklaven, die mehr hören, als ihre Herren denken."
+  },
+  {
+    "name": "Thermen einer Garnisonsstadt",
+    "to": 450,
+    "description": "Caldarium, Frigidarium und ein Bademeister, der für Geld jede Tür öffnet."
+  },
+  {
+    "name": "Burg mit Rittersaal",
+    "to": 1600,
+    "description": "Zugbrücke, Bergfried und ein Burgvogt, der den Schlüssel zur Waffenkammer trägt.",
+    "from": 900
+  },
+  {
+    "name": "Kaufmannskontor im Hafen",
+    "from": 1200,
+    "to": 1900,
+    "description": "Schreibpulte, Lagerböden voller Fässer und ein Schiff, das morgen ablegt."
+  },
+  {
+    "name": "Gasthof an einer Poststation",
+    "from": 1600,
+    "to": 1900,
+    "description": "Pferdewechsel, Gastzimmer mit dünnen Wänden und ein Postsack, der verschwunden ist."
+  },
+  {
+    "name": "Fürstliches Lustschloss",
+    "from": 1680,
+    "to": 1918,
+    "description": "Spiegelsaal, Heckenlabyrinth und ein Kammerdiener, der alle Geheimtüren kennt."
+  },
+  {
+    "name": "Spielbank in einem Kurort",
+    "from": 1800,
+    "description": "Roulette, Croupiers mit weißen Handschuhen und Kredit, der nur bis Mitternacht gilt."
+  },
+  {
+    "name": "Privatsanatorium in den Bergen",
+    "from": 1880,
+    "to": 1970,
+    "description": "Liegehallen, Höhenluft und ein Chefarzt mit sehr eigenen Methoden."
+  },
+  {
+    "name": "Ozeandampfer, erste Klasse",
+    "from": 1880,
+    "to": 1965,
+    "description": "Rauchsalon, Ballsaal und ein Funker, der alle Telegramme liest."
+  },
+  {
+    "name": "Jugendherberge bei der Klassenfahrt",
+    "from": 1920,
+    "description": "Etagenbetten, Hagebuttentee und ein Herbergsvater mit Trillerpfeife."
+  },
+  {
+    "name": "Autobahnraststätte in der Nacht",
+    "from": 1950,
+    "description": "Neonlicht, Fernfahrertisch und ein Parkplatz, auf dem ein Wagen zu lange steht."
+  },
+  {
+    "name": "Campingplatz am Baggersee",
+    "from": 1955,
+    "description": "Wohnwagen mit Vorzelt, Sanitärhaus mit Münzduschen und ein Platzwart, der alles notiert."
+  },
+  {
+    "name": "Tanzschule beim Abschlussball",
+    "from": 1880,
+    "description": "Parkett, Spiegelwand und ein Tanzlehrer, der jedes Paar zusammengestellt hat."
+  },
+  {
+    "name": "Bowlingcenter",
+    "from": 1960,
+    "description": "Bahnen mit Neonzahlen, Leihschuhe und eine Maschine, die Pins aufstellt und gelegentlich klemmt."
+  },
+  {
+    "name": "Schwimmbad nach Badeschluss",
+    "from": 1900,
+    "description": "Chlorgeruch, Sprungturm und ein Bademeister mit Schlüssel zum Technikraum."
+  },
+  {
+    "name": "Hallenbad in einer Plattenbausiedlung",
+    "from": 1970,
+    "to": 1995,
+    "description": "Fliesen in Orange, ein Kiosk mit Pommes und ein Wettbewerb im Rettungsschwimmen."
+  },
+  {
+    "name": "Bauernhof beim Schlachtfest",
+    "time": "zeitlos",
+    "description": "Waschkessel, Wurstküche und ein Hof, auf dem jeder ein Messer in der Hand hat."
+  },
+  {
+    "name": "Imkerei mit Lehrbienenstand",
+    "time": "zeitlos",
+    "description": "Schleuderraum, Wachsschmelze und Völker, die bei Gewitter gereizt sind."
+  },
+  {
+    "name": "Mühle am Bach",
+    "to": 1960,
+    "description": "Wasserrad, Mahlwerk und ein Müller, der die Waage selbst eicht."
+  },
+  {
+    "name": "Glashütte im Bayerischen Wald",
+    "from": 1500,
+    "description": "Schmelzofen, Glasmacherpfeifen und Hitze, die keine Spuren übrig lässt."
+  },
+  {
+    "name": "Porzellanmanufaktur",
+    "from": 1720,
+    "description": "Brennöfen, Malsaal und ein Geheimrezept für eine Glasur, das nicht verraten werden darf."
+  },
+  {
+    "name": "Uhrmacherwerkstatt im Schwarzwald",
+    "from": 1700,
+    "description": "Hunderte tickende Uhren, die alle zur selben Minute schlagen sollen."
+  },
+  {
+    "name": "Kaffeerösterei in der Speicherstadt",
+    "from": 1890,
+    "description": "Jutesäcke, Röstofen und ein Lagerboden, auf dem man sich gut verstecken kann."
+  },
+  {
+    "name": "Druckerei einer Lokalzeitung",
+    "from": 1850,
+    "description": "Setzkästen oder Rotationsmaschine, Redaktionsschluss um zehn und eine Schlagzeile, die nie erscheinen darf."
+  },
+  {
+    "name": "Hutmacherei",
+    "from": 1750,
+    "to": 1970,
+    "description": "Filzformen, Dampfkessel und eine Kundschaft, die nur nach Termin kommt."
+  },
+  {
+    "name": "Konditorei mit Backstube",
+    "description": "Marzipanfiguren, Zuckerguss und eine Torte, die für einen besonderen Gast bestimmt ist.",
+    "from": 1500
+  },
+  {
+    "name": "Bahnbetriebswerk mit Drehscheibe",
+    "from": 1860,
+    "description": "Lokschuppen, Kohlenbansen und eine Dampflok, die für eine Sonderfahrt angeheizt wird."
+  },
+  {
+    "name": "Flughafen-Lounge bei Unwetter",
+    "from": 1960,
+    "description": "Gestrichene Flüge, Bordkarten und eine Lounge, die nur für Vielflieger offen ist."
+  },
+  {
+    "name": "Kreuzfahrtschiff in der Karibik",
+    "from": 1970,
+    "description": "Buffet rund um die Uhr, Kabinen mit Balkon und eine Crew, die alles mitbekommt."
+  },
+  {
+    "name": "Hausboot in Berlin",
+    "from": 1970,
+    "description": "Ein ausgebauter Lastkahn, Lichterketten und Nachbarn, die vom Steg aus zusehen."
+  },
+  {
+    "name": "Coworking-Loft eines Start-ups",
+    "from": 2008,
+    "description": "Tischkicker, Glaswände, Kombucha im Kühlschrank und ein Pitch morgen früh."
+  },
+  {
+    "name": "Rechenzentrum im Bunker",
+    "from": 1995,
+    "description": "Serverschränke, Kühlung auf achtzehn Grad und eine Zugangskontrolle mit Protokoll."
+  },
+  {
+    "name": "Esport-Arena beim Finale",
+    "from": 2010,
+    "description": "Bühne mit Glaskabinen, Casterpult und ein Preisgeld, um das alle streiten."
+  },
+  {
+    "name": "Ferienhaus über eine Vermietungsplattform",
+    "from": 2010,
+    "description": "Schlüsselbox, Hausregeln auf Laminat und eine Kamera an der Tür, die angeblich nicht aufzeichnet."
+  },
+  {
+    "name": "Smart Home eines Influencers",
+    "from": 2015,
+    "description": "Sprachassistent in jedem Raum, Ringlicht und ein Livestream, der nicht ausgeht."
+  },
+  {
+    "name": "Vertikale Farm in einem alten Parkhaus",
+    "from": 2030,
+    "description": "Salat unter violettem Licht, Nährstofftanks und eine Erntemaschine mit eigenem Kopf."
+  },
+  {
+    "name": "Unterwasserhotel",
+    "from": 2035,
+    "description": "Bullaugen mit Fischen, Druckschleuse und ein Aufzug, der der einzige Weg nach oben ist."
+  },
+  {
+    "name": "Mondbasis im Schatten eines Kraters",
+    "from": 2050,
+    "description": "Regolith an jedem Stiefel, Sauerstoffprotokoll und eine Erde, die blau über dem Horizont hängt."
+  },
+  {
+    "name": "Generationenschiff",
+    "from": 2100,
+    "description": "Ein Gewächshausdeck, ein Archiv mit alten Daten und eine Besatzung, die den Zielplaneten nie sehen wird."
+  },
+  {
+    "name": "Wetterstation auf einem Berggipfel",
+    "from": 1880,
+    "description": "Messgeräte, Seilbahn als einziger Zugang und ein Logbuch mit Einträgen jede Stunde."
+  },
+  {
+    "name": "Fährschiff zu einer Nordseeinsel",
+    "from": 1880,
+    "description": "Autodeck, Bordrestaurant und eine Überfahrt, die wegen Nebel länger dauert."
+  },
+  {
+    "name": "Pension auf einer Halligwarft",
+    "from": 1850,
+    "description": "Landunter draußen, Teepunsch drinnen und kein Weg zurück bis zur Ebbe."
+  },
+  {
+    "name": "Jagdschloss im Herbst",
+    "from": 1650,
+    "description": "Geweihe an der Wand, Gewehrschrank und eine Treibjagd am nächsten Morgen."
+  },
+  {
+    "name": "Kaufhaus nach Ladenschluss",
+    "from": 1890,
+    "description": "Rolltreppen, Schaufensterpuppen und eine Dekorationsabteilung, die die Nacht durcharbeitet."
+  },
+  {
+    "name": "Plattenladen mit Hinterzimmer",
+    "from": 1955,
+    "description": "Vinyl in Kisten, Abhörkabinen und ein seltenes Pressmuster, das alle haben wollen."
+  },
+  {
+    "name": "Kino am Tag der Schließung",
+    "from": 1920,
+    "description": "Vorführraum mit Projektor, Samtvorhang und eine letzte Vorstellung für Freunde."
+  },
+  {
+    "name": "Weihnachtsmarkt-Hütte nach Marktschluss",
+    "from": 1850,
+    "description": "Glühweinkessel, Lichterketten und Standbetreiber, die sich seit Jahren kennen."
+  },
+  {
+    "name": "Gestüt vor einer Auktion",
+    "from": 1700,
+    "description": "Stallgasse, Sattelkammer und ein Hengst, für den Unsummen geboten werden."
+  },
+  {
+    "name": "Pilgerherberge am Jakobsweg",
+    "description": "Stempelpass, Gemeinschaftsküche und Pilger, die alle etwas hinter sich lassen wollen.",
+    "from": 900
+  },
+  {
+    "name": "Ausgrabungsstätte mit Grabungshaus",
+    "from": 1870,
+    "description": "Planquadrate, Fundkisten und ein Fund, der die Fachwelt umkrempeln könnte."
+  },
+  {
+    "name": "Tropenhaus eines Zoos",
+    "from": 1880,
+    "description": "Giftfrösche hinter Glas, Futterküche und ein Tierpfleger mit Generalschlüssel."
+  },
+  {
+    "name": "Seilbahnstation im Hochgebirge",
+    "from": 1910,
+    "description": "Bergstation mit Restaurant, letzte Talfahrt um sechs und ein Maschinenraum voller Zahnräder."
+  },
+  {
+    "name": "Schützenhaus beim Königsschießen",
+    "from": 1600,
+    "description": "Schießstand, Königskette und ein Festzelt, das schon steht."
+  },
+  {
+    "name": "Hotel in einer Geisterstadt am Tagebau",
+    "from": 1950,
+    "description": "Ein Dorf, das bald abgebaggert wird, und ein Hotel, das seinen letzten Abend feiert."
+  },
+  {
+    "name": "Gladiatorenschule in der Provinz",
+    "to": 450,
+    "description": "Übungsplatz, Waffenkammer und ein Lanista, der seine besten Kämpfer an reiche Gönner vermietet."
+  },
+  {
+    "name": "Weinschiff auf der Mosel",
+    "to": 450,
+    "description": "Ein Lastkahn voller Amphoren, Treidler am Ufer und ein Steuermann, der jede Untiefe kennt."
+  },
+  {
+    "name": "Marktplatz einer Wikingersiedlung",
+    "from": 800,
+    "to": 1100,
+    "description": "Langhäuser, Bernsteinhändler und ein Thing, auf dem morgen Recht gesprochen wird."
+  }
+]

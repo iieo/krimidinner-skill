@@ -1,0 +1,348 @@
+[
+  {
+    "name": "Eisenhut im Kräuterlikör",
+    "category": "Gift",
+    "description": "Aconitin aus der Wurzel des Blauen Eisenhuts, im bitteren Likör kaum zu schmecken.",
+    "traces": "Kribbeln im Mund, Gartenhandschuhe, fehlende Pflanze im Beet, Glas mit Rückstand."
+  },
+  {
+    "name": "Fingerhut im Tee",
+    "category": "Gift",
+    "description": "Digitalis aus getrockneten Blättern, verwechselt mit einem Kräutertee.",
+    "traces": "Herzmedikament eines Gastes, Teedose mit falschem Etikett, Erbrechen, gelbes Sehen."
+  },
+  {
+    "name": "Tollkirsche im Kompott",
+    "category": "Gift",
+    "description": "Atropin aus Beeren, die im Beerenkompott nicht auffallen.",
+    "traces": "Erweiterte Pupillen, Unruhe, Beerenreste im Gartenabfall."
+  },
+  {
+    "name": "Arsen im Rattengift",
+    "from": 1600,
+    "category": "Gift",
+    "description": "Aus dem Schuppen, über Wochen in kleinen Mengen gegeben.",
+    "traces": "Kaufbuch der Drogerie, angefangene Dose, Symptome über Tage hinweg."
+  },
+  {
+    "name": "Zyankali in einer Praline",
+    "from": 1850,
+    "category": "Gift",
+    "description": "Eine einzige präparierte Praline in einer gemischten Schachtel.",
+    "traces": "Bittermandelgeruch, Schachtel mit einer Lücke, Fotolabor oder Insektensammlung als Quelle."
+  },
+  {
+    "name": "Knollenblätterpilz im Ragout",
+    "category": "Gift",
+    "description": "Ein Pilzgericht, nach dem Symptome erst Stunden später auftreten.",
+    "traces": "Sammelkorb, Pilzbuch mit Eselsohr, späte Wirkung verschiebt die Tatzeit."
+  },
+  {
+    "name": "Eibennadeln im Kräuteraufguss",
+    "category": "Gift",
+    "description": "Eibe aus der Gartenhecke, als Rosmarin ausgegeben.",
+    "traces": "Frisch geschnittene Hecke, Nadeln im Sieb, Heckenschere mit Harz."
+  },
+  {
+    "name": "Überdosis Schlafmittel",
+    "from": 1900,
+    "category": "Gift",
+    "description": "Die eigenen Tabletten des Opfers, in einem Getränk aufgelöst.",
+    "traces": "Zu leere Packung, Rezept auf fremden Namen, bitterer Geschmack, Rückstand im Glas."
+  },
+  {
+    "name": "Insulin aus der Spritze eines Diabetikers",
+    "from": 1925,
+    "category": "Gift",
+    "description": "Eine Injektion, die man ohne Zucker im Blut kaum nachweisen kann.",
+    "traces": "Einstichstelle, fehlender Pen, Kühlschrank mit falscher Anzahl."
+  },
+  {
+    "name": "Nikotinextrakt",
+    "from": 1850,
+    "category": "Gift",
+    "description": "Aus Zigarren oder Insektizid eingekocht, ins Essen gemischt.",
+    "traces": "Zigarrenstummel ohne Rauchspuren, Kochtopf mit braunem Rand."
+  },
+  {
+    "name": "Bleizucker im Wein",
+    "to": 1900,
+    "category": "Gift",
+    "description": "Bleiacetat süßt sauren Wein und vergiftet langsam.",
+    "traces": "Süßer Wein bei schlechtem Jahrgang, Kupfertopf, Koliken."
+  },
+  {
+    "name": "Schierling in der Suppe",
+    "category": "Gift",
+    "description": "Gefleckter Schierling sieht der Petersilie ähnlich.",
+    "traces": "Mäusegeruch, Lähmung von unten nach oben, Kräuterbund vom Bachufer."
+  },
+  {
+    "name": "Gift aus einem Pfeilfrosch",
+    "from": 1880,
+    "category": "Gift",
+    "description": "Ein Sekret aus einem exotischen Terrarium, über eine Wunde übertragen.",
+    "traces": "Terrarium mit offenem Deckel, Handschuh, kleiner Kratzer am Opfer."
+  },
+  {
+    "name": "Methanol im Selbstgebrannten",
+    "category": "Gift",
+    "description": "Vorlauf der Destille nicht abgetrennt, mit Absicht.",
+    "traces": "Brennblase, Flasche ohne Etikett, Sehstörungen."
+  },
+  {
+    "name": "Tödliche Erdnussallergie",
+    "from": 1900,
+    "category": "Allergie",
+    "description": "Erdnussöl in einem Gericht, das garantiert ohne sein sollte.",
+    "traces": "Fehlender Notfallpen, Zutatenliste, Flasche Erdnussöl in der falschen Küche."
+  },
+  {
+    "name": "Wespenstich bei Allergie",
+    "category": "Allergie",
+    "description": "Ein Glas mit Wespen, unter die Serviette oder in den Hut gesetzt.",
+    "traces": "Marmeladenglas mit Löchern im Deckel, Stich am Hals, verschwundenes Notfallset."
+  },
+  {
+    "name": "Vertauschtes Medikament",
+    "from": 1880,
+    "category": "Allergie",
+    "description": "Ein Mittel, gegen das das Opfer bekanntermaßen allergisch ist, in der falschen Dose.",
+    "traces": "Dosen mit vertauschten Etiketten, Krankenakte, Apothekentüte."
+  },
+  {
+    "name": "Präparierter Stromschalter",
+    "from": 1890,
+    "category": "Elektrisch",
+    "description": "Ein vertauschter Leiter am Lichtschalter im feuchten Raum.",
+    "traces": "Schraubendreher mit Isolierband, Brandspur am Schalter, Sicherung, die vorher herausgedreht war."
+  },
+  {
+    "name": "Föhn in der Badewanne",
+    "from": 1930,
+    "category": "Elektrisch",
+    "description": "Als Unfall inszeniert, aber das Kabel reicht eigentlich nicht bis zur Wanne.",
+    "traces": "Verlängerungskabel, nasse Fußspuren, Sicherung ausgelöst um eine bestimmte Uhrzeit."
+  },
+  {
+    "name": "Manipulierte Weidezaunanlage",
+    "from": 1950,
+    "category": "Elektrisch",
+    "description": "Ein Weidezaungerät, an Netzspannung angeschlossen.",
+    "traces": "Umgebautes Gerät, Werkzeug im Stall, verbrannte Grashalme am Draht."
+  },
+  {
+    "name": "Defibrillator umprogrammiert",
+    "from": 2010,
+    "category": "Elektrisch",
+    "description": "Ein Herzschrittmacher oder implantierter Defibrillator wurde per Funk gestört.",
+    "traces": "Programmiergerät, Logbuch des Implantats, Laptop mit Funkadapter."
+  },
+  {
+    "name": "Eingesperrt im Kühlhaus",
+    "from": 1880,
+    "category": "Kälte",
+    "description": "Die Tür fiel zu, und der Notöffner war abgeschraubt.",
+    "traces": "Fehlende Schraube, Kratzer innen an der Tür, Temperaturprotokoll."
+  },
+  {
+    "name": "Ausgesperrt im Schneesturm",
+    "category": "Kälte",
+    "description": "Jemand verriegelte die Tür, als das Opfer kurz hinausging.",
+    "traces": "Riegel von innen, Fußspuren im Schnee, die enden, Uhr, die stehen blieb."
+  },
+  {
+    "name": "Gestürzt ins Eisloch",
+    "category": "Kälte",
+    "description": "Das Eis war an einer Stelle frisch angesägt und mit Schnee bedeckt.",
+    "traces": "Säge mit Eisresten, Schlittschuhspuren, Seil in der Hütte, das nass ist."
+  },
+  {
+    "name": "Kohlenmonoxid aus dem Ofen",
+    "from": 1800,
+    "category": "Gas",
+    "description": "Das Ofenrohr oder der Kamin wurde verstopft.",
+    "traces": "Ruß an einer Stelle, wo keiner sein sollte, Kopfschmerzen bei anderen, kirschrote Haut."
+  },
+  {
+    "name": "Leuchtgas aus der Lampe",
+    "from": 1820,
+    "to": 1960,
+    "category": "Gas",
+    "description": "Ein Gashahn wurde nachts geöffnet.",
+    "traces": "Hahnstellung, Fenster von außen verkeilt, Gasgeruch im Flur."
+  },
+  {
+    "name": "Kohlendioxid im Gärkeller",
+    "category": "Gas",
+    "description": "Die Lüftung wurde abgeschaltet, während der Most gärt.",
+    "traces": "Kerze, die erloschen ist, Lüftungsschalter mit Fingerabdruck, Kellerbuch."
+  },
+  {
+    "name": "Sturz vom Balkon mit gelockertem Geländer",
+    "category": "Inszenierter Unfall",
+    "description": "Die Schrauben waren gelöst, damit es wie Altersschwäche aussieht.",
+    "traces": "Frische Kratzer an Schraubenköpfen, passender Schlüssel, Holzspäne."
+  },
+  {
+    "name": "Treppensturz mit Stolperdraht",
+    "category": "Inszenierter Unfall",
+    "description": "Ein dünner Draht über der Stufe, danach entfernt.",
+    "traces": "Zwei kleine Löcher im Geländer, Draht in einer Schublade, Kratzer an den Knöcheln."
+  },
+  {
+    "name": "Gelöste Bremse am Fahrzeug",
+    "from": 1890,
+    "category": "Inszenierter Unfall",
+    "description": "Kutsche, Auto oder Seilbahnwagen, an dem die Bremse manipuliert wurde.",
+    "traces": "Ölflecken, Werkzeug mit Fett, Bremsleitung sauber angeschnitten."
+  },
+  {
+    "name": "Lawine, absichtlich ausgelöst",
+    "category": "Inszenierter Unfall",
+    "description": "Ein Hang wurde losgetreten, als das Opfer darunter war.",
+    "traces": "Spuren am Grat, Sprengkapselreste oder Fußspuren oben, Funkgerät, das schwieg."
+  },
+  {
+    "name": "Ertrinken im Pool nach Schlafmittel",
+    "from": 1920,
+    "category": "Inszenierter Unfall",
+    "description": "Erst betäubt, dann ins Wasser gelegt.",
+    "traces": "Kein Wasser in der Lunge, Glas am Beckenrand, nasse Ärmel."
+  },
+  {
+    "name": "Fallendes Bühnengewicht",
+    "from": 1750,
+    "category": "Mechanisch",
+    "description": "Ein Gegengewicht am Schnürboden wurde ausgeklinkt.",
+    "traces": "Seil mit Schnittkante, Zettel mit Einsätzen, Fingerabdrücke auf dem Gegengewicht."
+  },
+  {
+    "name": "Präparierte Zirkustrapez-Halterung",
+    "from": 1850,
+    "category": "Mechanisch",
+    "description": "Ein Karabiner wurde gegen einen billigen ausgetauscht.",
+    "traces": "Originalkarabiner im Werkzeugkasten, Quittung, Bruchkante."
+  },
+  {
+    "name": "Erschlagen mit Kerzenständer",
+    "category": "Mechanisch",
+    "description": "Ganz handfest, aber die Waffe wurde gesäubert und zurückgestellt.",
+    "traces": "Ein Ständer glänzt mehr als der andere, Wachs an der falschen Stelle, Blutfleck am Teppichrand."
+  },
+  {
+    "name": "Weinfass als Falle",
+    "category": "Mechanisch",
+    "description": "Ein Fass rollte aus dem Regal, weil der Keil fehlte.",
+    "traces": "Fehlender Keil, Rollspuren im Staub, Kreideschrift am Fass."
+  },
+  {
+    "name": "Uhrwerk mit Zeitzünder",
+    "from": 1700,
+    "category": "Mechanisch",
+    "description": "Eine Uhr löst zur vollen Stunde einen Mechanismus aus.",
+    "traces": "Umgebaute Uhr, fehlende Zahnräder in der Werkstatt, Alibi genau zur Tatzeit."
+  },
+  {
+    "name": "Armbrustbolzen aus dem Fenster",
+    "to": 1700,
+    "category": "Mechanisch",
+    "description": "Ein Schuss aus einem Nebengebäude, als alle zum Fenster gingen.",
+    "traces": "Bolzen mit seltener Befiederung, offener Fensterladen, Abdruck im Staub."
+  },
+  {
+    "name": "Pfeilspitze mit Pflanzengift",
+    "to": 800,
+    "category": "Gift",
+    "description": "Ein vergifteter Pfeil, als Jagdunfall ausgegeben.",
+    "traces": "Pfeil aus einem fremden Köcher, Giftschale, Wunde ohne Blutung."
+  },
+  {
+    "name": "Glassplitter im Brot",
+    "category": "Mechanisch",
+    "description": "Zerstoßenes Glas in einem Gebäck, das nur das Opfer isst.",
+    "traces": "Mörser mit Glasresten, Lieblingsgebäck des Opfers, Kratzer am Gaumen."
+  },
+  {
+    "name": "Erstickt im Weinkeller",
+    "category": "Mechanisch",
+    "description": "Ein Kissen und eine Gelegenheit, als Herzschlag getarnt.",
+    "traces": "Feder im Mund, verschobene Möbel, Kissen ohne Bezug."
+  },
+  {
+    "name": "Bienenstich in den Rachen",
+    "category": "Allergie",
+    "description": "Eine Biene im Honigglas, die beim Probieren sticht.",
+    "traces": "Bienen in einem Glas, das zu war, Imkerschleier, Schwellung."
+  },
+  {
+    "name": "Gift im Lippenstift",
+    "from": 1920,
+    "category": "Gift",
+    "description": "Eine Paste in der Hülse, die beim Nachziehen in den Mund gelangt.",
+    "traces": "Hülse mit fremdem Abdruck, zweite identische Hülse, Bitterkeit auf dem Glasrand."
+  },
+  {
+    "name": "Gift im Briefumschlag",
+    "from": 1840,
+    "category": "Gift",
+    "description": "Am Klebestreifen, beim Zukleben abgeleckt.",
+    "traces": "Umschlag ohne Absender, Briefmarke aus einer bestimmten Sammlung, Pinsel."
+  },
+  {
+    "name": "Druckabfall in der Luftschleuse",
+    "from": 2030,
+    "category": "Technisch",
+    "description": "Ein Steuerbefehl öffnete die äußere Tür zu früh.",
+    "traces": "Protokoll mit Benutzerkennung, Zugangskarte, die verliehen war, Helm am falschen Haken."
+  },
+  {
+    "name": "Manipulierter Kochroboter",
+    "from": 2035,
+    "category": "Technisch",
+    "description": "Das Rezept im Gerät wurde um eine tödliche Zutat ergänzt.",
+    "traces": "Rezepthistorie, Fernzugriff von einem Gästegerät, ungewöhnlicher Einkauf."
+  },
+  {
+    "name": "Gestörte Medikamentenpumpe",
+    "from": 2000,
+    "category": "Technisch",
+    "description": "Eine Infusions- oder Insulinpumpe gibt die zehnfache Dosis.",
+    "traces": "Gerätelog, Uhrzeit der Änderung, Passwort auf einem Klebezettel."
+  },
+  {
+    "name": "Sauerstoffmangel im Weinbunker",
+    "from": 1950,
+    "category": "Technisch",
+    "description": "Die Stickstoffanlage gegen Oxidation wurde voll aufgedreht.",
+    "traces": "Druckanzeige, Ventilstellung, Wartungsschlüssel fehlt."
+  },
+  {
+    "name": "Absturz mit dem Fesselballon",
+    "from": 1790,
+    "category": "Inszenierter Unfall",
+    "description": "Das Halteseil wurde angeschnitten, als das Opfer allein im Korb war.",
+    "traces": "Seilende mit glatter Schnittfläche, Messer im Proviantkorb, Zeugen am Boden."
+  },
+  {
+    "name": "Gift in der Farbe eines Gemäldes",
+    "from": 1800,
+    "category": "Gift",
+    "description": "Schweinfurter Grün oder Bleiweiß, das der Maler beim Pinselspitzen in den Mund nimmt.",
+    "traces": "Pinsel mit angekauter Spitze, frisch gemischte Farbe, Händlerquittung."
+  },
+  {
+    "name": "Rizin aus Rizinussamen",
+    "from": 1890,
+    "category": "Gift",
+    "description": "Aus Zierpflanzensamen gewonnen, wirkt erst nach einem Tag.",
+    "traces": "Samenkapseln im Wintergarten, Mörser, Mundschutz im Müll."
+  },
+  {
+    "name": "Vergiftete Zigarre",
+    "from": 1820,
+    "category": "Gift",
+    "description": "Eine einzige Zigarre im Humidor wurde präpariert.",
+    "traces": "Humidor mit veränderter Reihenfolge, Spritze, Bauchbinde falsch herum."
+  }
+]

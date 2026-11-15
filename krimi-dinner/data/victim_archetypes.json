@@ -1,0 +1,240 @@
+[
+  {
+    "name": "Reicher alter Mann mit Testament",
+    "weight": 0.1,
+    "description": "Der Klassiker. Nur ziehen, wenn das Testament eine überraschende Rolle spielt.",
+    "gender": "m"
+  },
+  {
+    "name": "Beliebte Gastgeberin, die alle zusammenhält",
+    "description": "Jeder mochte sie, und genau deshalb wusste sie von allen etwas.",
+    "gender": "f"
+  },
+  {
+    "name": "Junger Überflieger",
+    "description": "Mit dreißig schon ganz oben, auf Kosten von Menschen, die er längst vergessen hat.",
+    "gender": "m"
+  },
+  {
+    "name": "Strenge Kassenwartin",
+    "description": "Sie hat jede Quittung geprüft und dabei etwas gefunden.",
+    "gender": "f"
+  },
+  {
+    "name": "Charmanter Hochstapler",
+    "description": "Er war nie der, für den er sich ausgab, und mindestens einer am Tisch wusste das.",
+    "gender": "m"
+  },
+  {
+    "name": "Pedantischer Prüfer",
+    "description": "Gutachter, Juror oder Inspektor, dessen Urteil morgen veröffentlicht werden sollte.",
+    "gender": "m"
+  },
+  {
+    "name": "Heimgekehrte Auswanderin",
+    "description": "Zwanzig Jahre weg, und jetzt will sie zurückhaben, was ihr gehört.",
+    "gender": "f"
+  },
+  {
+    "name": "Klatschtante mit Notizbuch",
+    "description": "Sie schrieb alles auf, und das Notizbuch fehlt.",
+    "gender": "f"
+  },
+  {
+    "name": "Ehrgeizige Nachwuchskraft",
+    "description": "Lehrling, Assistentin oder Volontär, die zu schnell zu viel verstanden hat."
+  },
+  {
+    "name": "Gefeierter Künstler kurz vor dem Comeback",
+    "description": "Seine neue Arbeit hätte jemand anderen bloßgestellt.",
+    "gender": "m"
+  },
+  {
+    "name": "Gutmütiger Hausmeister",
+    "description": "Er hatte alle Schlüssel und sah jeden, der nachts kam.",
+    "gender": "m"
+  },
+  {
+    "name": "Erpresserin, die aufhören wollte",
+    "description": "Sie hatte genug und wollte reinen Tisch machen. Das gefiel nicht allen.",
+    "gender": "f"
+  },
+  {
+    "name": "Witwer mit neuer Liebe",
+    "description": "Seine Kinder halten die neue Frau für eine Gefahr.",
+    "gender": "m"
+  },
+  {
+    "name": "Rivalisierende Zwillingsschwester",
+    "description": "Zwei Gesichter, ein Erbe und Verwechslungen, die schon früher genützt wurden.",
+    "gender": "f"
+  },
+  {
+    "name": "Selbstgerechte Vereinsvorsitzende",
+    "description": "Sie hat den Verein dreißig Jahre geführt und wollte niemanden nachrücken lassen.",
+    "gender": "f"
+  },
+  {
+    "name": "Ehemaliger Kinderstar",
+    "description": "Damals berühmt, heute vergessen, und er plante ein Enthüllungsbuch.",
+    "gender": "m"
+  },
+  {
+    "name": "Unbequeme Journalistin",
+    "description": "Sie recherchierte seit Monaten, und ihr Artikel sollte Montag erscheinen.",
+    "gender": "f"
+  },
+  {
+    "name": "Verschuldeter Spieler",
+    "description": "Er schuldete fast allen am Tisch Geld und hatte einen Plan, um alles zu begleichen.",
+    "gender": "m"
+  },
+  {
+    "name": "Pflegerin des Hausherrn",
+    "description": "Sie wusste, welche Medikamente wann gegeben wurden, und wer sie vertauschen könnte.",
+    "gender": "f"
+  },
+  {
+    "name": "Gefürchteter Kritiker",
+    "description": "Seine Kritik hat Restaurants, Bühnen oder Karrieren beendet.",
+    "gender": "m"
+  },
+  {
+    "name": "Erfinderin mit Patent",
+    "description": "Ihre Erfindung war ein Vermögen wert, und die Unterlagen lagen im Gästezimmer.",
+    "gender": "f"
+  },
+  {
+    "name": "Bürgermeister vor der Wiederwahl",
+    "description": "Er hat Versprechen gemacht, die er nicht halten konnte.",
+    "gender": "m"
+  },
+  {
+    "name": "Unscheinbare Sekretärin",
+    "description": "Niemand nahm sie wahr, und sie las jeden Brief.",
+    "gender": "f"
+  },
+  {
+    "name": "Wunderheiler",
+    "description": "Seine Kuren wirkten selten, aber er wusste Dinge über seine Patienten.",
+    "gender": "m"
+  },
+  {
+    "name": "Strenger Patriarch, der sich ändern wollte",
+    "description": "Er wollte Fehler gutmachen, und manche Wiedergutmachung kostet andere viel.",
+    "gender": "m"
+  },
+  {
+    "name": "Junge Erbin, die verzichten wollte",
+    "description": "Sie wollte alles einer Stiftung geben, und die Familie erfuhr es zu früh.",
+    "gender": "f"
+  },
+  {
+    "name": "Ehemaliger Polizist",
+    "description": "Er hatte einen alten Fall nie losgelassen und war heute sicher, die Lösung zu kennen.",
+    "gender": "m"
+  },
+  {
+    "name": "Gastwirt mit Schuldenbuch",
+    "description": "Bei ihm stand das halbe Dorf an der Kreide.",
+    "gender": "m"
+  },
+  {
+    "name": "Bergführerin mit Vorgeschichte",
+    "description": "Bei ihrer letzten Tour ist jemand nicht zurückgekommen.",
+    "gender": "f"
+  },
+  {
+    "name": "Musiklehrer mit Lieblingsschülern",
+    "description": "Er entschied, wer Karriere macht und wer nicht.",
+    "gender": "m"
+  },
+  {
+    "name": "Unbekannter Gast",
+    "description": "Niemand will ihn eingeladen haben, aber er kannte alle mit Vornamen.",
+    "gender": "m"
+  },
+  {
+    "name": "Schwiegermutter mit Macht",
+    "description": "Sie hielt die Familie zusammen, mit Geld und mit Drohungen.",
+    "gender": "f"
+  },
+  {
+    "name": "Fälscher, der aussteigen wollte",
+    "description": "Er wollte seine Fälschungen offenlegen und damit viele Sammler ruinieren.",
+    "gender": "m"
+  },
+  {
+    "name": "Tierärztin des Ortes",
+    "description": "Sie kannte jedes Gift im Ort, weil sie es selbst verschrieben hat.",
+    "gender": "f"
+  },
+  {
+    "name": "Sportlicher Vereinsstar",
+    "description": "Er war unersetzlich für die Mannschaft, und genau das wollte er ausnutzen.",
+    "gender": "m"
+  },
+  {
+    "name": "Gründerin eines Start-ups",
+    "from": 1995,
+    "description": "Sie wollte morgen verkaufen, und die Mitgründer erfahren es zuletzt.",
+    "gender": "f"
+  },
+  {
+    "name": "Raumschiffkommandantin",
+    "from": 2030,
+    "description": "Sie traf die Entscheidungen über Sauerstoff, Kurs und wer zur Erde zurückdarf.",
+    "gender": "f"
+  },
+  {
+    "name": "Pfarrer mit zu vielen Beichten",
+    "description": "Er hat das Beichtgeheimnis immer gehalten, bis heute Abend.",
+    "gender": "m"
+  },
+  {
+    "name": "Ehemalige Schönheitskönigin",
+    "description": "Ihr Titel wurde damals gekauft, und sie wusste, von wem.",
+    "gender": "f"
+  },
+  {
+    "name": "Pächter, der kündigen sollte",
+    "description": "Er weigerte sich auszuziehen und hatte Papiere, die seine Rechte belegen.",
+    "gender": "m"
+  },
+  {
+    "name": "Freundlicher Nachbar mit dunkler Vergangenheit",
+    "description": "Zwanzig Jahre lang mähte er jeden Samstag den Rasen. Vorher hieß er anders.",
+    "gender": "m"
+  },
+  {
+    "name": "Influencerin mit Millionen Followern",
+    "from": 2012,
+    "description": "Sie wollte live etwas enthüllen, und die Gäste wussten nicht, was.",
+    "gender": "f"
+  },
+  {
+    "name": "Kapitän kurz vor der Pensionierung",
+    "description": "Seine letzte Fahrt, und er wollte sein Logbuch der Reederei übergeben.",
+    "gender": "m"
+  },
+  {
+    "name": "Sammlerin seltener Dinge",
+    "description": "Ihre Sammlung war unbezahlbar, und ein Stück davon ist gestohlen.",
+    "gender": "f"
+  },
+  {
+    "name": "Hilfsbereiter Dorfarzt",
+    "description": "Er hat Totenscheine ausgestellt, die er besser nicht unterschrieben hätte.",
+    "gender": "m"
+  },
+  {
+    "name": "Choreografin mit eiserner Hand",
+    "description": "Sie hat jede Rolle besetzt und heute eine Hauptrolle umbesetzt.",
+    "gender": "f"
+  },
+  {
+    "name": "Ältester Sohn, der zurückkehrt",
+    "description": "Er wurde vor Jahren verstoßen und kam, um sich zu versöhnen oder abzurechnen.",
+    "gender": "m"
+  }
+]
